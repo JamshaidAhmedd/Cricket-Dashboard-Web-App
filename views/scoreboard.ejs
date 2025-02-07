@@ -1,0 +1,41 @@
+<!-- views/scoreboard.ejs -->
+<%- include('partials/header') %>
+
+<h1 class="mb-4">Live / Recent Scoreboard</h1>
+
+<% if (scoreboardMatches.length === 0) { %>
+  <div class="alert alert-info">No live matches currently.</div>
+<% } else { %>
+  <div class="table-responsive">
+    <table class="table table-striped table-hover">
+      <thead class="table-dark">
+        <tr>
+          <th>Match</th>
+          <th>Status</th>
+          <th>Team A</th>
+          <th>Score A</th>
+          <th>Team B</th>
+          <th>Score B</th>
+          <th>Date</th>
+          <th>Venue</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% scoreboardMatches.forEach(match => { %>
+          <tr>
+            <td><a href="/matches/<%= match._id %>" class="text-decoration-none"><%= match.name %></a></td>
+            <td><span class="badge bg-success"><%= match.status %></span></td>
+            <td><%= match.teamA ? match.teamA.name : 'N/A' %></td>
+            <td><%= match.scoreA %></td>
+            <td><%= match.teamB ? match.teamB.name : 'N/A' %></td>
+            <td><%= match.scoreB %></td>
+            <td><%= match.date ? match.date.toDateString() : 'N/A' %></td>
+            <td><%= match.venue %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </div>
+<% } %>
+
+<%- include('partials/footer') %>

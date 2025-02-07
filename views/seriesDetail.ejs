@@ -1,0 +1,18 @@
+<!-- views/seriesDetail.ejs -->
+<%- include('partials/header') %>
+
+<div class="card mb-4">
+  <div class="card-body">
+    <h2 class="card-title"><%= series.name %></h2>
+    <p class="card-text"><strong>Start Date:</strong> <%= series.startDate ? series.startDate.toDateString() : 'N/A' %></p>
+    <p class="card-text"><strong>End Date:</strong> <%= series.endDate ? series.endDate.toDateString() : 'N/A' %></p>
+    <p class="card-text"><strong>ODI Matches:</strong> <%= series.odi %></p>
+    <p class="card-text"><strong>T20 Matches:</strong> <%= series.t20 %></p>
+    <p class="card-text"><strong>Test Matches:</strong> <%= series.test %></p>
+    <p class="card-text"><strong>Total Matches:</strong> <%= series.matches %></p>
+    <!-- Add more series details as needed -->
+  </div>
+</div>
+<a href="/series" class="btn btn-secondary">Back to Series</a>
+
+<%- include('partials/footer') %>

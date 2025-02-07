@@ -1,0 +1,78 @@
+<!-- views/players.ejs -->
+<%- include('partials/header') %>
+
+<h1 class="mb-4">All Players</h1>
+
+<% if (players.length === 0) { %>
+  <div class="alert alert-info">No players found.</div>
+<% } else { %>
+  <div class="table-responsive">
+    <table class="table table-hover table-striped">
+      <thead class="table-success">
+        <tr>
+          <th>Name</th>
+          <th>Age</th>
+          <th>Role</th>
+          <th>Batting Style</th>
+          <th>Bowling Style</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% players.forEach(player => { %>
+          <tr>
+            <td>
+              <a href="/players/<%= player._id %>" class="text-decoration-none">
+                <%= player.name %>
+              </a>
+            </td>
+            <td><%= player.age || 'N/A' %></td>
+            <td><%= player.role || 'N/A' %></td>
+            <td><%= player.battingStyle || 'N/A' %></td>
+            <td><%= player.bowlingStyle || 'N/A' %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Pagination Controls -->
+  <nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+      <% if (current > 1) { %>
+        <li class="page-item">
+          <a class="page-link" href="?page=<%= current - 1 %>" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+          </a>
+        </li>
+      <% } else { %>
+        <li class="page-item disabled">
+          <span class="page-link" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+          </span>
+        </li>
+      <% } %>
+
+      <% for (let i = 1; i <= pages; i++) { %>
+        <li class="page-item <%= (i === current) ? 'active' : '' %>">
+          <a class="page-link" href="?page=<%= i %>"><%= i %></a>
+        </li>
+      <% } %>
+
+      <% if (current < pages) { %>
+        <li class="page-item">
+          <a class="page-link" href="?page=<%= current + 1 %>" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+          </a>
+        </li>
+      <% } else { %>
+        <li class="page-item disabled">
+          <span class="page-link" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+          </span>
+        </li>
+      <% } %>
+    </ul>
+  </nav>
+<% } %>
+
+<%- include('partials/footer') %>

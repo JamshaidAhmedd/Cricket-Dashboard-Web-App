@@ -1,0 +1,90 @@
+<!-- views/matches.ejs -->
+<%- include('partials/header') %>
+
+<h1 class="mb-4">All Matches</h1>
+
+<% if (matches.length === 0) { %>
+  <div class="alert alert-warning">No matches found.</div>
+<% } else { %>
+  <div class="table-responsive">
+    <table class="table table-bordered table-striped table-hover">
+      <thead class="table-primary">
+        <tr>
+          <th>Match</th>
+          <th>Series</th>
+          <th>Match Type</th>
+          <th>Status</th>
+          <th>Team A</th>
+          <th>Score A</th>
+          <th>Team B</th>
+          <th>Score B</th>
+          <th>Date</th>
+          <th>Venue</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% matches.forEach(match => { %>
+          <tr>
+            <td><a href="/matches/<%= match._id %>" class="text-decoration-none"><%= match.name %></a></td>
+            <td><%= match.series ? match.series.name : 'N/A' %></td>
+            <td><%= match.matchType %></td>
+            <td>
+              <% if (match.status.toLowerCase() === 'live') { %>
+                <span class="badge bg-danger"><%= match.status %></span>
+              <% } else { %>
+                <span class="badge bg-secondary"><%= match.status %></span>
+              <% } %>
+            </td>
+            <td><%= match.teamA ? match.teamA.name : 'N/A' %></td>
+            <td><%= match.scoreA %></td>
+            <td><%= match.teamB ? match.teamB.name : 'N/A' %></td>
+            <td><%= match.scoreB %></td>
+            <td><%= match.date ? match.date.toDateString() : 'N/A' %></td>
+            <td><%= match.venue %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Pagination Controls -->
+  <nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+      <% if (current > 1) { %>
+        <li class="page-item">
+          <a class="page-link" href="?page=<%= current - 1 %>" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+          </a>
+        </li>
+      <% } else { %>
+        <li class="page-item disabled">
+          <span class="page-link" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+          </span>
+        </li>
+      <% } %>
+
+      <% for (let i = 1; i <= pages; i++) { %>
+        <li class="page-item <%= (i === current) ? 'active' : '' %>">
+          <a class="page-link" href="?page=<%= i %>"><%= i %></a>
+        </li>
+      <% } %>
+
+      <% if (current < pages) { %>
+        <li class="page-item">
+          <a class="page-link" href="?page=<%= current + 1 %>" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+          </a>
+        </li>
+      <% } else { %>
+        <li class="page-item disabled">
+          <span class="page-link" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+          </span>
+        </li>
+      <% } %>
+    </ul>
+  </nav>
+<% } %>
+
+<%- include('partials/footer') %>

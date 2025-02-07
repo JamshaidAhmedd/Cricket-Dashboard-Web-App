@@ -1,0 +1,35 @@
+<!-- views/playerDetail.ejs -->
+<%- include('partials/header') %>
+
+<div class="card mb-4">
+  <div class="row g-0">
+    <div class="col-md-4 text-center">
+      <% if (player.image) { %>
+        <img src="<%= player.image %>" class="img-fluid rounded-start p-3" alt="<%= player.name %>">
+      <% } else { %>
+        <img src="/images/default-player.png" class="img-fluid rounded-start p-3" alt="Default Player Image">
+      <% } %>
+      <% if (player.team) { %>
+        <h5 class="mt-2">Team: <a href="/teams/<%= player.team._id %>"><%= player.team.name %></a></h5>
+      <% } else { %>
+        <h5 class="mt-2">Team: N/A</h5>
+      <% } %>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h2 class="card-title"><%= player.name %></h2>
+        <p class="card-text"><strong>Age:</strong> <%= player.age || 'N/A' %></p>
+        <p class="card-text"><strong>Role:</strong> <%= player.role || 'N/A' %></p>
+        <p class="card-text"><strong>Batting Style:</strong> <%= player.battingStyle || 'N/A' %></p>
+        <p class="card-text"><strong>Bowling Style:</strong> <%= player.bowlingStyle || 'N/A' %></p>
+        <% if (Object.keys(player.stats).length > 0) { %>
+          <h4>Statistics</h4>
+          <pre><%= JSON.stringify(player.stats, null, 2) %></pre>
+        <% } %>
+      </div>
+    </div>
+  </div>
+</div>
+<a href="/players" class="btn btn-secondary">Back to Players</a>
+
+<%- include('partials/footer') %>

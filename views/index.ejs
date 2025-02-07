@@ -1,0 +1,59 @@
+<!-- views/index.ejs -->
+<%- include('partials/header') %>
+
+<h1 class="mb-4">Welcome to the Cricket Dashboard</h1>
+
+<div class="row">
+  <!-- Recent Series -->
+  <div class="col-md-6">
+    <h2>Recent Series</h2>
+    <% if (recentSeries.length === 0) { %>
+      <div class="alert alert-info">No recent series found.</div>
+    <% } else { %>
+      <div class="list-group">
+        <% recentSeries.forEach(s => { %>
+          <a href="/series/<%= s._id %>" class="list-group-item list-group-item-action">
+            <h5 class="mb-1"><%= s.name %></h5>
+            <p class="mb-1">
+              Start: <%= s.startDate ? s.startDate.toDateString() : 'N/A' %> -
+              End: <%= s.endDate ? s.endDate.toDateString() : 'N/A' %>
+            </p>
+            <small>
+              <i class="fas fa-trophy"></i> 
+              <% if (s.odi) { %> ODI: <%= s.odi %> <% } %>
+              <% if (s.t20) { %> T20: <%= s.t20 %> <% } %>
+              <% if (s.test) { %> Test: <%= s.test %> <% } %>
+            </small>
+          </a>
+        <% }) %>
+      </div>
+    <% } %>
+  </div>
+
+  <!-- Recent Matches -->
+  <div class="col-md-6">
+    <h2>Recent Matches</h2>
+    <% if (recentMatches.length === 0) { %>
+      <div class="alert alert-info">No recent matches found.</div>
+    <% } else { %>
+      <div class="list-group">
+        <% recentMatches.forEach(m => { %>
+          <a href="/matches/<%= m._id %>" class="list-group-item list-group-item-action">
+            <h5 class="mb-1"><%= m.name %></h5>
+            <p class="mb-1">
+              Status: <span class="badge bg-primary"><%= m.status %></span>
+            </p>
+            <p class="mb-1">
+              Teams: 
+              <%= m.teamA ? m.teamA.name : 'N/A' %> vs 
+              <%= m.teamB ? m.teamB.name : 'N/A' %>
+            </p>
+            <small>Date: <%= m.date ? m.date.toDateString() : 'N/A' %></small>
+          </a>
+        <% }) %>
+      </div>
+    <% } %>
+  </div>
+</div>
+
+<%- include('partials/footer') %>

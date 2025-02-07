@@ -1,0 +1,35 @@
+<!-- views/teamDetail.ejs -->
+<%- include('partials/header') %>
+
+<div class="card mb-4">
+  <div class="row g-0">
+    <div class="col-md-4 text-center">
+      <% if (team.logo) { %>
+        <img src="<%= team.logo %>" class="img-fluid rounded-start p-3" alt="<%= team.name %> Logo">
+      <% } else { %>
+        <img src="/images/default-team.png" class="img-fluid rounded-start p-3" alt="Default Team Logo">
+      <% } %>
+      <h3 class="mt-2"><%= team.name %></h3>
+      <p>Country: <%= team.country %></p>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h4 class="card-title">Players</h4>
+        <% if (team.players.length === 0) { %>
+          <p>No players found for this team.</p>
+        <% } else { %>
+          <ul class="list-group">
+            <% team.players.forEach(player => { %>
+              <li class="list-group-item">
+                <a href="/players/<%= player._id %>" class="text-decoration-none"><%= player.name %></a> - <%= player.role %>
+              </li>
+            <% }) %>
+          </ul>
+        <% } %>
+      </div>
+    </div>
+  </div>
+</div>
+<a href="/teams" class="btn btn-secondary">Back to Teams</a>
+
+<%- include('partials/footer') %>

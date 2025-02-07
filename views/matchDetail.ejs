@@ -1,0 +1,36 @@
+<!-- views/matchDetail.ejs -->
+<%- include('partials/header') %>
+
+<div class="card mb-4">
+  <div class="row g-0">
+    <div class="col-md-4 text-center">
+      <h3 class="mt-3"><%= match.name %></h3>
+      <p><strong>Venue:</strong> <%= match.venue %></p>
+      <p><strong>Date:</strong> <%= match.date ? match.date.toDateString() : 'N/A' %></p>
+      <% if (match.teamA && match.teamB) { %>
+        <img src="<%= match.teamA.logo || '/images/default-team.png' %>" class="img-fluid rounded" alt="<%= match.teamA.name %> Logo">
+        <p><strong>VS</strong></p>
+        <img src="<%= match.teamB.logo || '/images/default-team.png' %>" class="img-fluid rounded" alt="<%= match.teamB.name %> Logo">
+      <% } %>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h4>Status: <span class="badge bg-info"><%= match.status %></span></h4>
+        <p><strong>Match Type:</strong> <%= match.matchType %></p>
+        <p><strong>Series:</strong> <%= match.series ? match.series.name : 'N/A' %></p>
+        <p><strong>Score:</strong> 
+          <% if (match.scoreA && match.scoreB) { %>
+            <%= match.teamA ? match.teamA.name : 'Team A' %>: <%= match.scoreA %> vs 
+            <%= match.teamB ? match.teamB.name : 'Team B' %>: <%= match.scoreB %>
+          <% } else { %>
+            N/A
+          <% } %>
+        </p>
+        <!-- Add more match details as needed -->
+      </div>
+    </div>
+  </div>
+</div>
+<a href="/matches" class="btn btn-secondary">Back to Matches</a>
+
+<%- include('partials/footer') %>

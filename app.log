@@ -1,0 +1,1492 @@
+2024-12-27 14:51:43 [ERROR]: MongoDB Connection Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mongodb.net
+2024-12-27 14:54:50 [INFO]: MongoDB Connected for Seeding
+2024-12-27 14:54:50 [INFO]: Cleared Series collection.
+2024-12-27 14:54:51 [INFO]: Cleared Teams collection.
+2024-12-27 14:54:51 [INFO]: Cleared Players collection.
+2024-12-27 14:54:51 [INFO]: Cleared Matches collection.
+2024-12-27 14:54:53 [INFO]: Fetched 25 series. Total fetched: 25/694
+2024-12-27 14:54:54 [INFO]: Fetched 25 series. Total fetched: 50/694
+2024-12-27 14:54:55 [INFO]: Fetched 25 series. Total fetched: 75/694
+2024-12-27 14:54:56 [INFO]: Fetched 25 series. Total fetched: 100/694
+2024-12-27 14:54:57 [INFO]: Fetched 25 series. Total fetched: 125/694
+2024-12-27 14:54:59 [INFO]: Fetched 25 series. Total fetched: 150/694
+2024-12-27 14:55:00 [INFO]: Fetched 25 series. Total fetched: 175/694
+2024-12-27 14:55:01 [INFO]: Fetched 25 series. Total fetched: 200/694
+2024-12-27 14:55:02 [INFO]: Fetched 25 series. Total fetched: 225/694
+2024-12-27 14:55:04 [INFO]: Fetched 25 series. Total fetched: 250/694
+2024-12-27 14:55:05 [INFO]: Fetched 25 series. Total fetched: 275/694
+2024-12-27 14:55:06 [INFO]: Fetched 25 series. Total fetched: 300/694
+2024-12-27 14:55:07 [INFO]: Fetched 25 series. Total fetched: 325/694
+2024-12-27 14:55:09 [INFO]: Fetched 25 series. Total fetched: 350/694
+2024-12-27 14:55:10 [INFO]: Fetched 25 series. Total fetched: 375/694
+2024-12-27 14:55:11 [INFO]: Fetched 25 series. Total fetched: 400/694
+2024-12-27 14:55:12 [INFO]: Fetched 25 series. Total fetched: 425/694
+2024-12-27 14:55:14 [INFO]: Fetched 25 series. Total fetched: 450/694
+2024-12-27 14:55:15 [INFO]: Fetched 25 series. Total fetched: 475/694
+2024-12-27 14:55:16 [INFO]: Fetched 25 series. Total fetched: 500/694
+2024-12-27 14:55:17 [INFO]: Fetched 25 series. Total fetched: 525/694
+2024-12-27 14:55:19 [INFO]: Fetched 25 series. Total fetched: 550/694
+2024-12-27 14:55:20 [INFO]: Fetched 25 series. Total fetched: 575/694
+2024-12-27 14:55:21 [INFO]: Fetched 25 series. Total fetched: 600/694
+2024-12-27 14:55:22 [INFO]: Fetched 25 series. Total fetched: 625/694
+2024-12-27 14:55:24 [INFO]: Fetched 25 series. Total fetched: 650/694
+2024-12-27 14:55:25 [INFO]: Fetched 25 series. Total fetched: 675/694
+2024-12-27 14:55:27 [INFO]: Fetched 19 series. Total fetched: 694/694
+2024-12-27 14:55:28 [INFO]: Fetched 694 series from API.
+2024-12-27 14:55:28 [INFO]: Series "England tour of Ireland, 2025" saved successfully.
+2024-12-27 14:55:28 [INFO]: Series "South Africa tour of England, 2025" saved successfully.
+2024-12-27 14:55:28 [INFO]: Series "India Women tour of England, 2025" saved successfully.
+2024-12-27 14:55:28 [INFO]: Series "India tour of England, 2025" saved successfully.
+2024-12-27 14:55:29 [INFO]: Series "ICC World Test Championship Final 2025" saved successfully.
+2024-12-27 14:55:29 [INFO]: Series "West Indies tour of England, 2025" saved successfully.
+2024-12-27 14:55:29 [INFO]: Series "West Indies Women tour of England, 2025" saved successfully.
+2024-12-27 14:55:29 [INFO]: Series "Australia Women tour of New Zealand, 2025" saved successfully.
+2024-12-27 14:55:29 [INFO]: Series "Pakistan tour of New Zealand, 2025" saved successfully.
+2024-12-27 14:55:29 [INFO]: Series "Sri Lanka Women tour of New Zealand, 2025" saved successfully.
+2024-12-27 14:55:30 [INFO]: Series "CSA Provincial One-Day Challenge Division Two 2025" saved successfully.
+2024-12-27 14:55:30 [INFO]: Series "CSA Provincial One-Day Challenge Division One 2025" saved successfully.
+2024-12-27 14:55:30 [INFO]: Series "Pakistan ODI Tri-Series, 2025" saved successfully.
+2024-12-27 14:55:30 [INFO]: Series "Australia tour of Sri Lanka, 2025" saved successfully.
+2024-12-27 14:55:30 [INFO]: Series "England tour of India, 2025" saved successfully.
+2024-12-27 14:55:31 [INFO]: Series "ICC Under 19 Womens T20 World Cup 2025" saved successfully.
+2024-12-27 14:55:31 [INFO]: Series "West Indies tour of Pakistan, 2025" saved successfully.
+2024-12-27 14:55:31 [INFO]: Series "Womens Ashes, 2025" saved successfully.
+2024-12-27 14:55:31 [INFO]: Series "International League T20, 2025" saved successfully.
+2024-12-27 14:55:31 [INFO]: Series "Ireland Womens tour of India, 2025" saved successfully.
+2024-12-27 14:55:31 [INFO]: Series "SA20, 2025" saved successfully.
+2024-12-27 14:55:32 [INFO]: Series "Bangladesh Premier League, 2024-25" saved successfully.
+2024-12-27 14:55:32 [INFO]: Series "Sri Lanka tour of New Zealand, 2024-25" saved successfully.
+2024-12-27 14:55:32 [INFO]: Series "Super Smash 2024-25" saved successfully.
+2024-12-27 14:55:32 [INFO]: Series "Philippines Women tour of Singapore, 2024" saved successfully.
+2024-12-27 14:55:32 [INFO]: Series "Myanmar Women tour of Bhutan, 2024" saved successfully.
+2024-12-27 14:55:32 [INFO]: Series "Vijay Hazare Trophy 2024-25" saved successfully.
+2024-12-27 14:55:33 [INFO]: Series "Australia Women tour of New Zealand, 2024" saved successfully.
+2024-12-27 14:55:33 [INFO]: Series "West Indies Women tour of India, 2024" saved successfully.
+2024-12-27 14:55:33 [INFO]: Series "Big Bash League 2024-25" saved successfully.
+2024-12-27 14:55:33 [INFO]: Series "Jersey Women tour of Gibraltar, 2024" saved successfully.
+2024-12-27 14:55:33 [INFO]: Series "Gulf Cricket T20I Championship, 2024" saved successfully.
+2024-12-27 14:55:33 [INFO]: Series "Lanka T10 Super League, 2024" saved successfully.
+2024-12-27 14:55:34 [INFO]: Series "Namibia Women tour of Malaysia, 2024" saved successfully.
+2024-12-27 14:55:34 [INFO]: Series "Pakistan tour of South Africa, 2024 -25" saved successfully.
+2024-12-27 14:55:34 [INFO]: Series "Afghanistan tour of Zimbabwe, 2024-25" saved successfully.
+2024-12-27 14:55:34 [INFO]: Series "ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024" saved successfully.
+2024-12-27 14:55:34 [INFO]: Series "India Women tour of Australia, 2024" saved successfully.
+2024-12-27 14:55:35 [INFO]: Series "Womens T20I Quadrangular Series in Hong Kong, China 2024" saved successfully.
+2024-12-27 14:55:35 [INFO]: Series "Africa Continental Cup 2024" saved successfully.
+2024-12-27 14:55:35 [INFO]: Series "Bahrain Women tour of Qatar 2024" saved successfully.
+2024-12-27 14:55:35 [INFO]: Series "ACC U19 Asia Cup, 2024" saved successfully.
+2024-12-27 14:55:35 [INFO]: Series "England tour of New Zealand, 2024" saved successfully.
+2024-12-27 14:55:35 [INFO]: Series "Ireland women tour of Bangladesh, 2024" saved successfully.
+2024-12-27 14:55:36 [INFO]: Series "Sri Lanka tour of South Africa, 2024" saved successfully.
+2024-12-27 14:55:36 [INFO]: Series "Global Super League, 2024" saved successfully.
+2024-12-27 14:55:36 [INFO]: Series "Pakistan tour of Zimbabwe, 2024" saved successfully.
+2024-12-27 14:55:36 [INFO]: Series "England Women tour of South Africa, 2024" saved successfully.
+2024-12-27 14:55:36 [INFO]: Series "ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2024" saved successfully.
+2024-12-27 14:55:36 [INFO]: Series "Syed Mushtaq Ali Trophy 2024" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "Bangladesh tour of West Indies, 2024" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "India tour of Australia, 2024-25" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "Abu Dhabi T10 League 2024" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "ICC Mens T20 World Cup Asia Qualifier B 2024" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "Costa Rica Women tour of Mexico 2024" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "Ranji Trophy Elite 2024-25" saved successfully.
+2024-12-27 14:55:37 [INFO]: Series "Netherlands tour of Oman, 2024" saved successfully.
+2024-12-27 14:55:38 [INFO]: Series "Myanmar tour of Indonesia, 2024" saved successfully.
+2024-12-27 14:55:38 [INFO]: Series "Sri Lanka A tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:55:38 [INFO]: Series "Plunket Shield 2024-25" saved successfully.
+2024-12-27 14:55:38 [INFO]: Series "New Zealand tour of Sri Lanka, 2024" saved successfully.
+2024-12-27 14:55:38 [INFO]: Series "India tour of South Africa, 2024" saved successfully.
+2024-12-27 14:55:39 [INFO]: Series "Womens T20I Quadrangular Series in China, 2024" saved successfully.
+2024-12-27 14:55:39 [INFO]: Series "ICC CWC Challenge League B, 2024-26" saved successfully.
+2024-12-27 14:55:39 [INFO]: Series "Afghanistan v Bangladesh in UAE, 2024" saved successfully.
+2024-12-27 14:55:39 [INFO]: Series "Pakistan tour of Australia, 2024" saved successfully.
+2024-12-27 14:55:39 [INFO]: Series "India A tour of Australia, 2024" saved successfully.
+2024-12-27 14:55:39 [INFO]: Series "CSA Four-Day Series Division Two 2024-25" saved successfully.
+2024-12-27 14:55:40 [INFO]: Series "England tour of West Indies, 2024" saved successfully.
+2024-12-27 14:55:40 [INFO]: Series "CSA Four-Day Series Division One 2024-25" saved successfully.
+2024-12-27 14:55:40 [INFO]: Series "Kenya Women tour of Rwanda 2024" saved successfully.
+2024-12-27 14:55:40 [INFO]: Series "Bahrain in Uganda 2024" saved successfully.
+2024-12-27 14:55:40 [INFO]: Series "Womens Big Bash League 2024" saved successfully.
+2024-12-27 14:55:40 [INFO]: Series "Bulgaria Women tour of Greece, 2024" saved successfully.
+2024-12-27 14:55:41 [INFO]: Series "New Zealand Women tour of India 2024" saved successfully.
+2024-12-27 14:55:41 [INFO]: Series "Singapore Womens T20I Tri-Series, 2024" saved successfully.
+2024-12-27 14:55:41 [INFO]: Series "South Africa tour of Bangladesh, 2024" saved successfully.
+2024-12-27 14:55:41 [INFO]: Series "The Ford Trophy 2024-25" saved successfully.
+2024-12-27 14:55:41 [INFO]: Series "ICC Mens T20 World Cup Sub Regional Africa Qualifier Group B, 2024" saved successfully.
+2024-12-27 14:55:41 [INFO]: Series "Quadrangular T20I Series in Bhutan, 2024" saved successfully.
+2024-12-27 14:55:42 [INFO]: Series "Nepal tour of United States of America 2024" saved successfully.
+2024-12-27 14:55:42 [INFO]: Series "ACC Mens T20 Emerging Teams Asia Cup 2024" saved successfully.
+2024-12-27 14:55:42 [INFO]: Series "USA Women tour of Zimbabwe, 2024" saved successfully.
+2024-12-27 14:55:42 [INFO]: Series "New Zealand tour of India, 2024" saved successfully.
+2024-12-27 14:55:42 [INFO]: Series "West Indies tour of Sri Lanka, 2024" saved successfully.
+2024-12-27 14:55:42 [INFO]: Series "Bulgaria Women tour of Serbia, 2024" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "Ranji Trophy Plate 2024-25" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "Ranji Trophy Elite 2024-25" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "T20 Spring Challenge 2024" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "South American Mens Championships 2024" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "Rwanda tour of Malawi 2024" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "Womens East Asia Cup 2024" saved successfully.
+2024-12-27 14:55:43 [INFO]: Series "Sheffield Shield 2024-25" saved successfully.
+2024-12-27 14:55:44 [INFO]: Series "England tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:55:44 [INFO]: Series "ICC Womens T20 World Cup, 2024" saved successfully.
+2024-12-27 14:55:44 [INFO]: Series "Singapore Women tour of Japan, 2024" saved successfully.
+2024-12-27 14:55:44 [INFO]: Series "Irani Cup 2024" saved successfully.
+2024-12-27 14:55:44 [INFO]: Series "Serbia tour of Gibraltar, 2024" saved successfully.
+2024-12-27 14:55:45 [INFO]: Series "Namibia T20I Tri-Series 2024" saved successfully.
+2024-12-27 14:55:45 [INFO]: Series "ICC Mens T20 World Cup Sub Regional East Asia-Pacific Qualifier B, 2024" saved successfully.
+2024-12-27 14:55:45 [INFO]: Series "Canada T20I Tri-Series 2024" saved successfully.
+2024-12-27 14:55:45 [INFO]: Series "ICC Womens T20 World Cup Warm-up Matches, 2024" saved successfully.
+2024-12-27 14:55:45 [INFO]: Series "Ireland v South Africa in UAE, 2024" saved successfully.
+2024-12-27 14:55:46 [INFO]: Series "CSA T20 Challenge 2024" saved successfully.
+2024-12-27 14:55:46 [INFO]: Series "Womens Tri-Series in Italy, 2024" saved successfully.
+2024-12-27 14:55:46 [INFO]: Series "South American Womens Championships 2024" saved successfully.
+2024-12-27 14:55:46 [INFO]: Series "T20I Tri-Series in South Korea, 2024" saved successfully.
+2024-12-27 14:55:46 [INFO]: Series "ICC CWC Challenge League A, 2024-26" saved successfully.
+2024-12-27 14:55:47 [INFO]: Series "Australia Domestic One-Day Cup 2024-25" saved successfully.
+2024-12-27 14:55:47 [INFO]: Series "Zim Afro T10 2024" saved successfully.
+2024-12-27 14:55:47 [INFO]: Series "Australia Under 19 tour of India, 2024" saved successfully.
+2024-12-27 14:55:47 [INFO]: Series "CSA T20 Knock Out Competition 2024" saved successfully.
+2024-12-27 14:55:47 [INFO]: Series "ICC Mens T20 World Cup Africa Sub Regional Qualifier A 2024" saved successfully.
+2024-12-27 14:55:48 [INFO]: Series "Spain Women tour of Greece 2024" saved successfully.
+2024-12-27 14:55:48 [INFO]: Series "Legends League Cricket 2024" saved successfully.
+2024-12-27 14:55:48 [INFO]: Series "New Zealand Women tour of Australia, 2024" saved successfully.
+2024-12-27 14:55:48 [INFO]: Series "Bangladesh tour of India, 2024" saved successfully.
+2024-12-27 14:55:49 [INFO]: Series "New Zealand tour of Sri Lanka, 2024" saved successfully.
+2024-12-27 14:55:49 [INFO]: Series "Afghanistan v South Africa in UAE, 2024" saved successfully.
+2024-12-27 14:55:49 [INFO]: Series "South Africa Women tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:55:49 [INFO]: Series "Womens T20I Quadrangular Series 2024" saved successfully.
+2024-12-27 14:55:49 [INFO]: Series "Cyprus Women tour of Serbia, 2024" saved successfully.
+2024-12-27 14:55:49 [INFO]: Series "Australia tour of England, 2024" saved successfully.
+2024-12-27 14:55:50 [INFO]: Series "Rwanda Women tour of Kenya, 2024" saved successfully.
+2024-12-27 14:55:50 [INFO]: Series "Afghanistan v New Zealand in India, 2024" saved successfully.
+2024-12-27 14:55:50 [INFO]: Series "England Women tour of Ireland 2024" saved successfully.
+2024-12-27 14:55:50 [INFO]: Series "Duleep Trophy 2024" saved successfully.
+2024-12-27 14:55:50 [INFO]: Series "Australia tour of Scotland, 2024" saved successfully.
+2024-12-27 14:55:50 [INFO]: Series "Sri Lanka A tour of South Africa,2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "ICC Mens T20 World Cup Asia Qualifier A 2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "Caribbean Premier League 2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "Netherlands T20I Tri-Series, 2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "Bangladesh tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "Womens Valletta Cup 2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "Malaysia T20I Tri Nations Cup, 2024" saved successfully.
+2024-12-27 14:55:51 [INFO]: Series "Womens Caribbean Premier League 2024" saved successfully.
+2024-12-27 14:55:52 [INFO]: Series "ICC Mens T20 World Cup Sub Regional Europe Qualifier C, 2024" saved successfully.
+2024-12-27 14:55:52 [INFO]: Series "Sri Lanka tour of England, 2024" saved successfully.
+2024-12-27 14:55:52 [INFO]: Series "Bangladesh A tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:55:52 [INFO]: Series "ICC Mens T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2024" saved successfully.
+2024-12-27 14:55:52 [INFO]: Series "Maharaja Trophy KSCA T20 2024" saved successfully.
+2024-12-27 14:55:52 [INFO]: Series "Womens Tri-Series in Namibia, 2024" saved successfully.
+2024-12-27 14:55:53 [INFO]: Series "Sri Lanka Women tour of Ireland 2024" saved successfully.
+2024-12-27 14:55:53 [INFO]: Series "Nordic Women T20I Cup 2024" saved successfully.
+2024-12-27 14:55:53 [INFO]: Series "England Domestic One-Day Cup 2025" saved successfully.
+2024-12-27 14:55:53 [INFO]: Series "Womens Tri-Series in Netherlands, 2024" saved successfully.
+2024-12-27 14:55:54 [INFO]: Series "Spain tour of Croatia, 2024" saved successfully.
+2024-12-27 14:55:54 [INFO]: Series "South Africa tour of West Indies, 2024" saved successfully.
+2024-12-27 14:55:54 [INFO]: Series "" saved successfully.
+2024-12-27 14:55:54 [INFO]: Series "India tour of Sri Lanka, 2024" saved successfully.
+2024-12-27 14:55:54 [INFO]: Series "Germany Womens T20I Tri-Series 2024" saved successfully.
+2024-12-27 14:55:54 [INFO]: Series "Zimbabwe tour of Ireland, 2024" saved successfully.
+2024-12-27 14:55:55 [INFO]: Series "Global T20 Canada 2024" saved successfully.
+2024-12-27 14:55:55 [INFO]: Series "England Domestic One-Day Cup 2024" saved successfully.
+2024-12-27 14:55:55 [INFO]: Series "The Hundred Womens Competition 2024" saved successfully.
+2024-12-27 14:55:55 [INFO]: Series "The Hundred Mens Competition 2024" saved successfully.
+2024-12-27 14:55:55 [INFO]: Series "ICC Mens T20 World Cup East Asia Pacific Qualifier 2023" saved successfully.
+2024-12-27 14:55:55 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier 2023" saved successfully.
+2024-12-27 14:55:56 [INFO]: Series "Womens Asia Cup T20, 2024" saved successfully.
+2024-12-27 14:55:56 [INFO]: Series "Guernsey Women tour of Jersey, 2024" saved successfully.
+2024-12-27 14:55:56 [INFO]: Series "Nigeria tour of Kenya 2024" saved successfully.
+2024-12-27 14:55:56 [INFO]: Series "West Indies tour of England, 2024" saved successfully.
+2024-12-27 14:55:56 [INFO]: Series "ICC T20 World Cup Sub Regional Europe Qualifier B, 2024" saved successfully.
+2024-12-27 14:55:56 [INFO]: Series "India tour of Zimbabwe, 2024" saved successfully.
+2024-12-27 14:55:57 [INFO]: Series "Tamil Nadu Premier League 2024" saved successfully.
+2024-12-27 14:55:57 [INFO]: Series "Major League Cricket 2024" saved successfully.
+2024-12-27 14:55:57 [INFO]: Series "World Championship of Legends 2024" saved successfully.
+2024-12-27 14:55:57 [INFO]: Series "Indonesia Womens T20I Tri-Series 2024" saved successfully.
+2024-12-27 14:55:57 [INFO]: Series "Lanka Premier League, 2024" saved successfully.
+2024-12-27 14:55:58 [INFO]: Series "Serbia tour of Slovenia, 2024" saved successfully.
+2024-12-27 14:55:58 [INFO]: Series "Kenya Quadrangular Cup 2024" saved successfully.
+2024-12-27 14:55:58 [INFO]: Series "Sri Lanka Under 19 tour of England, 2024" saved successfully.
+2024-12-27 14:55:58 [INFO]: Series "New Zealand Women tour of England, 2024" saved successfully.
+2024-12-27 14:55:58 [INFO]: Series "Jersey tour of Guernsey, 2024" saved successfully.
+2024-12-27 14:55:58 [INFO]: Series "Hong Kong Women tour of Netherlands, 2024" saved successfully.
+2024-12-27 14:55:59 [INFO]: Series "Estonia Women tour of Cyprus 2024" saved successfully.
+2024-12-27 14:55:59 [INFO]: Series "Estonia tour of Cyprus 2024" saved successfully.
+2024-12-27 14:55:59 [INFO]: Series "South Africa Women tour of India, 2024" saved successfully.
+2024-12-27 14:55:59 [INFO]: Series "Jersey tour of Denmark, 2024" saved successfully.
+2024-12-27 14:56:00 [INFO]: Series "West Indies Women tour of Sri Lanka, 2024" saved successfully.
+2024-12-27 14:56:00 [INFO]: Series "Women Central Europe Cup, 2024" saved successfully.
+2024-12-27 14:56:00 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier A, 2024" saved successfully.
+2024-12-27 14:56:00 [INFO]: Series "Guernsey tour of Belgium, 2024" saved successfully.
+2024-12-27 14:56:00 [INFO]: Series "Czech Republic Women tour of Austria, 2024" saved successfully.
+2024-12-27 14:56:00 [INFO]: Series "ICC Mens T20 World Cup 2024" saved successfully.
+2024-12-27 14:56:01 [INFO]: Series "T20 Blast 2024" saved successfully.
+2024-12-27 14:56:01 [INFO]: Series "Kwibuka Womens Tournament 2024" saved successfully.
+2024-12-27 14:56:01 [INFO]: Series "Italy Women tour of Netherlands, 2024" saved successfully.
+2024-12-27 14:56:01 [INFO]: Series "Zimbabwe tour of England, 2025" saved successfully.
+2024-12-27 14:56:01 [INFO]: Series "ICC Mens T20 World Cup Warm-up Matches 2024" saved successfully.
+2024-12-27 14:56:02 [INFO]: Series "Asian Legends League 2024 (Postponed)" saved successfully.
+2024-12-27 14:56:02 [INFO]: Series "Belgium tour of Austria, 2024" saved successfully.
+2024-12-27 14:56:02 [INFO]: Series "Continental Cup 2024" saved successfully.
+2024-12-27 14:56:02 [INFO]: Series "South Africa tour of West Indies, 2024" saved successfully.
+2024-12-27 14:56:02 [INFO]: Series "Pakistan tour of England, 2024" saved successfully.
+2024-12-27 14:56:02 [INFO]: Series "Bangladesh tour of USA, 2024" saved successfully.
+2024-12-27 14:56:03 [INFO]: Series "Luxembourg Women tour of Belgium, 2024" saved successfully.
+2024-12-27 14:56:03 [INFO]: Series "Netherlands T20I Tri-Series, 2024" saved successfully.
+2024-12-27 14:56:03 [INFO]: Series "Pakistan Women tour of England, 2024" saved successfully.
+2024-12-27 14:56:03 [INFO]: Series "Pakistan tour of Ireland, 2024" saved successfully.
+2024-12-27 14:56:03 [INFO]: Series "Mdina Cup 2024" saved successfully.
+2024-12-27 14:56:04 [INFO]: Series "Mongolia tour of Japan, 2024" saved successfully.
+2024-12-27 14:56:04 [INFO]: Series "Guernsey Women vs Isle of Man Women, 2024" saved successfully.
+2024-12-27 14:56:04 [INFO]: Series "Zimbabwe tour of Bangladesh, 2024" saved successfully.
+2024-12-27 14:56:04 [INFO]: Series "Thailand tour of Indonesia 2024" saved successfully.
+2024-12-27 14:56:04 [INFO]: Series "India Women tour of Bangladesh, 2024" saved successfully.
+2024-12-27 14:56:04 [INFO]: Series "ICC Womens T20 World Cup Qualifier 2024" saved successfully.
+2024-12-27 14:56:05 [INFO]: Series "Kalahari Womens T20I Tournament, 2024" saved successfully.
+2024-12-27 14:56:05 [INFO]: Series "Mongolia Women tour of Indonesia, 2024" saved successfully.
+2024-12-27 14:56:05 [INFO]: Series "Estonia Women tour of Gibraltar, 2024" saved successfully.
+2024-12-27 14:56:05 [INFO]: Series "New Zealand tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:56:05 [INFO]: Series "West Indies women tour of Pakistan, 2024" saved successfully.
+2024-12-27 14:56:05 [INFO]: Series "Ireland Women v Thailand Women in UAE, 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "Womens T20I Quadrangular Series, 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "Jersey tour of Spain, 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "ACC Mens T20I Premier Cup, 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "Central American Cricket Championships 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "Womens ODI Tri-Series 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "Canada tour of USA, 2024" saved successfully.
+2024-12-27 14:56:06 [INFO]: Series "County Championship Division Two 2024" saved successfully.
+2024-12-27 14:56:07 [INFO]: Series "County Championship Division One 2024" saved successfully.
+2024-12-27 14:56:07 [INFO]: Series "Namibia tour of Oman, 2024" saved successfully.
+2024-12-27 14:56:07 [INFO]: Series "Papua New Guinea Women tour of Zimbabwe, 2024" saved successfully.
+2024-12-27 14:56:07 [INFO]: Series "Lesotho tour of Eswatini, 2024" saved successfully.
+2024-12-27 14:56:07 [INFO]: Series "Sri Lanka Women tour of South Africa, 2024" saved successfully.
+2024-12-27 14:56:08 [INFO]: Series "Indian Premier League 2024" saved successfully.
+2024-12-27 14:56:08 [INFO]: Series "Australia Women tour of Bangladesh, 2024" saved successfully.
+2024-12-27 14:56:08 [INFO]: Series "England Womens tour of New Zealand, 2024" saved successfully.
+2024-12-27 14:56:08 [INFO]: Series "Mens African Games, 2024" saved successfully.
+2024-12-27 14:56:08 [INFO]: Series "Asian Legends League, 2024" saved successfully.
+2024-12-27 14:56:08 [INFO]: Series "Papua New Guinea tour of Malaysia, 2024" saved successfully.
+2024-12-27 14:56:09 [INFO]: Series "Scotland tour of United Arab Emirates 2024" saved successfully.
+2024-12-27 14:56:09 [INFO]: Series "Hong Kong T20I Tri-Series, 2024" saved successfully.
+2024-12-27 14:56:09 [INFO]: Series "Hong Kong Friendship Cup, 2024" saved successfully.
+2024-12-27 14:56:09 [INFO]: Series "CSA T20 Challenge 2024" saved successfully.
+2024-12-27 14:56:09 [INFO]: Series "Legends Cricket Trophy, 2024" saved successfully.
+2024-12-27 14:56:09 [INFO]: Series "Womens African Games, 2024" saved successfully.
+2024-12-27 14:56:10 [INFO]: Series "CSA Provincial T20 Cup 2024" saved successfully.
+2024-12-27 14:56:10 [INFO]: Series "Malaysia Open T20I Championship, 2024" saved successfully.
+2024-12-27 14:56:10 [INFO]: Series "Sri Lanka tour of Bangladesh, 2024" saved successfully.
+2024-12-27 14:56:10 [INFO]: Series "Papua New Guinea tour of Oman 2024" saved successfully.
+2024-12-27 14:56:10 [INFO]: Series "Afghanistan v Ireland in UAE, 2024" saved successfully.
+2024-12-27 14:56:11 [INFO]: Series "Nepal T20I Tri-Series 2024" saved successfully.
+2024-12-27 14:56:11 [INFO]: Series "Hong Kong tour of Qatar 2024" saved successfully.
+2024-12-27 14:56:11 [INFO]: Series "NCF Womens T20I Invitational, 2024" saved successfully.
+2024-12-27 14:56:11 [INFO]: Series "Womens Premier League 2024" saved successfully.
+2024-12-27 14:56:11 [INFO]: Series "ICC Cricket World Cup Challenge League Play-off 2024" saved successfully.
+2024-12-27 14:56:12 [INFO]: Series "Australia tour of New Zealand, 2024" saved successfully.
+2024-12-27 14:56:12 [INFO]: Series "Pakistan Super League, 2024" saved successfully.
+2024-12-27 14:56:12 [INFO]: Series "ICC Cricket World Cup League Two 2023-27" saved successfully.
+2024-12-27 14:56:12 [INFO]: Series "East Asia Cup 2024" saved successfully.
+2024-12-27 14:56:12 [INFO]: Series "Quadrangular Twenty20 Series in Thailand 2024" saved successfully.
+2024-12-27 14:56:12 [INFO]: Series "Asian Cricket Council Womens Premier Cup 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "Canada tour of Nepal, 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "Kuwait Women tour of Malaysia, 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "South Africa tour of New Zealand, 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "Afghanistan tour of Sri Lanka, 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "Maldives v Indonesia in Thailand, 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "ACC Mens T20I Challenger Cup 2024" saved successfully.
+2024-12-27 14:56:13 [INFO]: Series "South Africa Women tour of Australia, 2024" saved successfully.
+2024-12-27 14:56:14 [INFO]: Series "England tour of India, 2024" saved successfully.
+2024-12-27 14:56:14 [INFO]: Series "International League T20, 2024" saved successfully.
+2024-12-27 14:56:14 [INFO]: Series "Bangladesh Premier League 2024" saved successfully.
+2024-12-27 14:56:14 [INFO]: Series "ICC Under 19 World Cup 2024" saved successfully.
+2024-12-27 14:56:14 [INFO]: Series "Ireland Women tour of Zimbabwe, 2024" saved successfully.
+2024-12-27 14:56:14 [INFO]: Series "Womens T20 Pacific Cup 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "West Indies tour of Australia, 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "ICC Under 19 World Cup Warm up Matches 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "Pakistan tour of New Zealand, 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "England Lions tour of India, 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "Afghanistan tour of India, 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "SA20, 2024" saved successfully.
+2024-12-27 14:56:15 [INFO]: Series "Zimbabwe tour of Sri Lanka 2024" saved successfully.
+2024-12-27 14:56:16 [INFO]: Series "Ranji Trophy 2023-24" saved successfully.
+2024-12-27 14:56:16 [INFO]: Series "South Africa U19 Tri-Series 2023-24" saved successfully.
+2024-12-27 14:56:16 [INFO]: Series "Afghanistan tour of United Arab Emirates 2023-24" saved successfully.
+2024-12-27 14:56:16 [INFO]: Series "Singapore Women tour of Philippines 2023" saved successfully.
+2024-12-27 14:56:16 [INFO]: Series "Philippines tour of Indonesia T20I Series 2023" saved successfully.
+2024-12-27 14:56:17 [INFO]: Series "Australia Women tour of India, 2023-24" saved successfully.
+2024-12-27 14:56:17 [INFO]: Series "American Premier League 2023" saved successfully.
+2024-12-27 14:56:17 [INFO]: Series "Super Smash 2023-24" saved successfully.
+2024-12-27 14:56:17 [INFO]: Series "Bangladesh tour of New Zealand, 2023" saved successfully.
+2024-12-27 14:56:17 [INFO]: Series "Pakistan tour of Australia, 2023-24" saved successfully.
+2024-12-27 14:56:18 [INFO]: Series "India A tour of South Africa, 2023-24" saved successfully.
+2024-12-27 14:56:18 [INFO]: Series "Africa Cricket Association Cup 2023" saved successfully.
+2024-12-27 14:56:18 [INFO]: Series "India tour of South Africa, 2023-24" saved successfully.
+2024-12-27 14:56:18 [INFO]: Series "ICC Womens T20 World Cup Africa Region Qualifier 2023" saved successfully.
+2024-12-27 14:56:19 [INFO]: Series "ACC U19 Asia Cup, 2023" saved successfully.
+2024-12-27 14:56:19 [INFO]: Series "Big Bash League 2023-24" saved successfully.
+2024-12-27 14:56:19 [INFO]: Series "Ireland tour of Zimbabwe, 2023" saved successfully.
+2024-12-27 14:56:19 [INFO]: Series "England Women tour of India, 2023" saved successfully.
+2024-12-27 14:56:19 [INFO]: Series "East-West Africa Cup Qualifiers 2023" saved successfully.
+2024-12-27 14:56:19 [INFO]: Series "England tour of West Indies, 2023" saved successfully.
+2024-12-27 14:56:20 [INFO]: Series "Bangladesh Women tour of South Africa, 2023" saved successfully.
+2024-12-27 14:56:20 [INFO]: Series "Pakistan Womens tour of New Zealand, 2023" saved successfully.
+2024-12-27 14:56:20 [INFO]: Series "T10 League 2023" saved successfully.
+2024-12-27 14:56:20 [INFO]: Series "The Ford Trophy 2023-24" saved successfully.
+2024-12-27 14:56:20 [INFO]: Series "Australia tour of India, 2023" saved successfully.
+2024-12-27 14:56:20 [INFO]: Series "Vijay Hazare Trophy 2023" saved successfully.
+2024-12-27 14:56:21 [INFO]: Series "ICC Mens T20 World Cup Africa Region Qualifier 2023" saved successfully.
+2024-12-27 14:56:21 [INFO]: Series "West Indies A tour of South Africa 2023" saved successfully.
+2024-12-27 14:56:21 [INFO]: Series "Cambodia tour of Indonesia 2023" saved successfully.
+2024-12-27 14:56:21 [INFO]: Series "Legends League Cricket 2023" saved successfully.
+2024-12-27 14:56:21 [INFO]: Series "Womens T20I Quadrangular Series in Hong Kong 2023" saved successfully.
+2024-12-27 14:56:21 [INFO]: Series "Quadrangular U19 Series in India 2023" saved successfully.
+2024-12-27 14:56:22 [INFO]: Series "CSA Four-Day Series Division One 2023-24" saved successfully.
+2024-12-27 14:56:22 [INFO]: Series "ICC Mens T20I World Cup Asia Finals 2023" saved successfully.
+2024-12-27 14:56:22 [INFO]: Series "CSA Four-Day Series Division Two 2023-24" saved successfully.
+2024-12-27 14:56:22 [INFO]: Series "Pakistan Womens tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:22 [INFO]: Series "Zimbabwe tour of Namibia 2023" saved successfully.
+2024-12-27 14:56:22 [INFO]: Series "Womens Big Bash League 2023" saved successfully.
+2024-12-27 14:56:23 [INFO]: Series "Plunket Shield 2023-24" saved successfully.
+2024-12-27 14:56:23 [INFO]: Series "Nepal T20I Tri-Series 2023" saved successfully.
+2024-12-27 14:56:23 [INFO]: Series "Ireland Women v Scotland Women in Spain 2023" saved successfully.
+2024-12-27 14:56:23 [INFO]: Series "Syed Mushtaq Ali Trophy 2023" saved successfully.
+2024-12-27 14:56:23 [INFO]: Series "Luxembourg tour of Gibraltar 2023" saved successfully.
+2024-12-27 14:56:23 [INFO]: Series "Chile Women tour of Argentina, 2023" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "ICC Cricket World Cup 2023" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "Serbia tour of Gibraltar 2023" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "West Africa Trophy 2023" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "Sheffield Shield 2023-24" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "Irani Cup 2023" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "West Indies Women tour of Australia, 2023" saved successfully.
+2024-12-27 14:56:24 [INFO]: Series "ICC Mens T20 World Cup Americas Region Final 2023" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "Estonia tour of Gibraltar 2023" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "ICC Cricket World Cup Warm-up Matches 2023" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "ICC Mens T20 World Cup Sub Regional Asia Qualifier A 2023" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "Asian Games Mens T20I 2023" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "Namibia Women tour of United Arab Emirates 2023" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "Australia Domestic One-Day Cup 2023-24" saved successfully.
+2024-12-27 14:56:25 [INFO]: Series "New Zealand Women tour of South Africa, 2023" saved successfully.
+2024-12-27 14:56:26 [INFO]: Series "Road Safety World Series T20 2023 (Postponed)" saved successfully.
+2024-12-27 14:56:26 [INFO]: Series "Australia tour of India, 2023" saved successfully.
+2024-12-27 14:56:26 [INFO]: Series "New Zealand tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:26 [INFO]: Series "Ireland tour of England ODI Series, 2023" saved successfully.
+2024-12-27 14:56:26 [INFO]: Series "Asian Games Womens T20I, 2023" saved successfully.
+2024-12-27 14:56:26 [INFO]: Series "Malaysia T20I Tri-Series 2023" saved successfully.
+2024-12-27 14:56:27 [INFO]: Series "CSA Provincial One-Day Challenge Division One 2023" saved successfully.
+2024-12-27 14:56:27 [INFO]: Series "CSA Provincial One-Day Challenge Division Two 2023" saved successfully.
+2024-12-27 14:56:27 [INFO]: Series "Gulf Cricket T20I Championship 2023" saved successfully.
+2024-12-27 14:56:28 [INFO]: Series "Hong Kong Women tour of Malaysia 2023" saved successfully.
+2024-12-27 14:56:28 [INFO]: Series "ICC Womens T20 World Cup Europe Region Qualifier 2023" saved successfully.
+2024-12-27 14:56:28 [INFO]: Series "ICC Womens T20 World Cup Americas Qualifier 2023" saved successfully.
+2024-12-27 14:56:28 [INFO]: Series "Womens T20I Quadrangular Series in Greece 2023" saved successfully.
+2024-12-27 14:56:28 [INFO]: Series "Sri Lanka Women tour of England, 2023" saved successfully.
+2024-12-27 14:56:29 [INFO]: Series "ICC Womens T20 World Cup Africa Division 2 Qualifier 2023" saved successfully.
+2024-12-27 14:56:29 [INFO]: Series "ICC Womens T20 World Cup East Asia Pacific Region Qualifier 2023" saved successfully.
+2024-12-27 14:56:29 [INFO]: Series "South Africa Women tour of Pakistan, 2023" saved successfully.
+2024-12-27 14:56:29 [INFO]: Series "ICC Womens T20 World Cup Asia Qualifier 2023" saved successfully.
+2024-12-27 14:56:30 [INFO]: Series "Womens Caribbean Premier League 2023" saved successfully.
+2024-12-27 14:56:30 [INFO]: Series "New Zealand tour of England, 2023" saved successfully.
+2024-12-27 14:56:30 [INFO]: Series "Asia Cup, 2023" saved successfully.
+2024-12-27 14:56:30 [INFO]: Series "Australia tour of South Africa, 2023" saved successfully.
+2024-12-27 14:56:30 [INFO]: Series "Japan Women tour of Vanuatu 2023" saved successfully.
+2024-12-27 14:56:31 [INFO]: Series "Guernsey Women tour of Austria, 2023" saved successfully.
+2024-12-27 14:56:31 [INFO]: Series "Rajasthan Premier League 2023" saved successfully.
+2024-12-27 14:56:31 [INFO]: Series "New Zealand A tour of Australia, 2023" saved successfully.
+2024-12-27 14:56:31 [INFO]: Series "Nordic Women T20I Cup 2023" saved successfully.
+2024-12-27 14:56:31 [INFO]: Series "Myanmar Women tour of Singapore 2023" saved successfully.
+2024-12-27 14:56:31 [INFO]: Series "Jersey Women tour of Netherlands 2023" saved successfully.
+2024-12-27 14:56:32 [INFO]: Series "Indonesia Women T20I Tri-Series 2023" saved successfully.
+2024-12-27 14:56:32 [INFO]: Series "Saurashtra Premier League 2023" saved successfully.
+2024-12-27 14:56:32 [INFO]: Series "Afghanistan v Pakistan in Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:32 [INFO]: Series "Womens T20I Quadrangular Series in Malaysia 2023" saved successfully.
+2024-12-27 14:56:32 [INFO]: Series "East Africa Cup 2023" saved successfully.
+2024-12-27 14:56:32 [INFO]: Series "India tour of Ireland, 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "Continental Cup 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "US Masters T10 League 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "Kenya Women tour of Indonesia, 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "New Zealand tour of United Arab Emirates, 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "Caribbean Premier League 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "Germany v Guernsey in Netherlands, 2023" saved successfully.
+2024-12-27 14:56:33 [INFO]: Series "Ireland Women tour of Netherlands, 2023" saved successfully.
+2024-12-27 14:56:34 [INFO]: Series "Maharaja Trophy KSCA T20 2023" saved successfully.
+2024-12-27 14:56:34 [INFO]: Series "Budapest Cup 2023" saved successfully.
+2024-12-27 14:56:34 [INFO]: Series "Womens Continental Cup 2023" saved successfully.
+2024-12-27 14:56:34 [INFO]: Series "The Hundred Womens Competition 2023" saved successfully.
+2024-12-27 14:56:34 [INFO]: Series "The Hundred Mens Competition 2023" saved successfully.
+2024-12-27 14:56:34 [INFO]: Series "Isle of Man Women in Austria, 2023" saved successfully.
+2024-12-27 14:56:35 [INFO]: Series "Lanka Premier League 2023" saved successfully.
+2024-12-27 14:56:35 [INFO]: Series "ICC Mens T20 World Cup Asia Qualifier B 2023" saved successfully.
+2024-12-27 14:56:35 [INFO]: Series "Deodhar Trophy 2023" saved successfully.
+2024-12-27 14:56:35 [INFO]: Series "Australia Women tour of Ireland, 2023" saved successfully.
+2024-12-27 14:56:35 [INFO]: Series "Global T20 Canada 2023" saved successfully.
+2024-12-27 14:56:36 [INFO]: Series "Zim Afro T10 2023" saved successfully.
+2024-12-27 14:56:36 [INFO]: Series "Pakistan tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:36 [INFO]: Series "Major League Cricket 2023" saved successfully.
+2024-12-27 14:56:36 [INFO]: Series "ACC Mens Emerging Teams Asia Cup 2023" saved successfully.
+2024-12-27 14:56:36 [INFO]: Series "India tour of West Indies, 2023" saved successfully.
+2024-12-27 14:56:36 [INFO]: Series "Valletta Cup 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "Mdina Cup 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "Womens T20I Tri-Series in Netherlands 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "Austria tour of Isle of Man, 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "India Women tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "Inter-Insular Mens T20I Series 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "Uganda tour of Namibia, 2023" saved successfully.
+2024-12-27 14:56:37 [INFO]: Series "Thailand Women tour of Netherlands, 2023" saved successfully.
+2024-12-27 14:56:38 [INFO]: Series "Austria v Germany in Netherlands, 2023" saved successfully.
+2024-12-27 14:56:38 [INFO]: Series "Duleep Trophy 2023" saved successfully.
+2024-12-27 14:56:38 [INFO]: Series "New Zealand Women tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:38 [INFO]: Series "Ireland Women tour of West Indies, 2023" saved successfully.
+2024-12-27 14:56:38 [INFO]: Series "Inter-Insular Womens T20I Series 2023" saved successfully.
+2024-12-27 14:56:39 [INFO]: Series "Switzerland tour of Luxembourg, 2023" saved successfully.
+2024-12-27 14:56:39 [INFO]: Series "Bulgaria Quadrangular Series 2023" saved successfully.
+2024-12-27 14:56:39 [INFO]: Series "ICC Cricket World Cup Qualifiers 2023" saved successfully.
+2024-12-27 14:56:39 [INFO]: Series "Argentina Women tour of Brazil, 2023" saved successfully.
+2024-12-27 14:56:39 [INFO]: Series "ACC Womens Emerging Teams Asia Cup 2023" saved successfully.
+2024-12-27 14:56:39 [INFO]: Series "Afghanistan tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "ICC World Cup Qualifiers Warm-up matches 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "ACC Womens Emerging Teams Asia Cup 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "Tamil Nadu Premier League 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "Kwibuka Womens T20I Tournament 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "Central Europe Cup 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "Africa Continental Cup 2023" saved successfully.
+2024-12-27 14:56:40 [INFO]: Series "Belgium tour of Germany, 2023" saved successfully.
+2024-12-27 14:56:41 [INFO]: Series "ICC World Test Championship Final 2023" saved successfully.
+2024-12-27 14:56:41 [INFO]: Series "West Indies tour of UAE, 2023" saved successfully.
+2024-12-27 14:56:41 [INFO]: Series "South Africa A tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:41 [INFO]: Series "Karnataka tour of Namibia, 2023" saved successfully.
+2024-12-27 14:56:41 [INFO]: Series "Afghanistan tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:41 [INFO]: Series "Ireland tour of England Only Test, 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "ICC Womens T20 World Cup Europe Division 2 Qualifier 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "Nepal Women tour of Malaysia, 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "Southern Africa Cup 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "Womens East Asia Cup 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "Nordic T20I Cup 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "Pakistan A tour of Zimbabwe 2023" saved successfully.
+2024-12-27 14:56:42 [INFO]: Series "West Indies A tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:43 [INFO]: Series "Ireland v Bangladesh in England, 2023" saved successfully.
+2024-12-27 14:56:43 [INFO]: Series "France Women tour of Austria, 2023" saved successfully.
+2024-12-27 14:56:43 [INFO]: Series "Norway Women tour of Estonia, 2023" saved successfully.
+2024-12-27 14:56:43 [INFO]: Series "Gibraltar T20I Tri-Series 2023" saved successfully.
+2024-12-27 14:56:43 [INFO]: Series "SEA Games Mens Twenty20 Cricket Competition 2023" saved successfully.
+2024-12-27 14:56:43 [INFO]: Series "SEA Games Womens Twenty20 Cricket Competition 2023" saved successfully.
+2024-12-27 14:56:44 [INFO]: Series "Bangladesh Women tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:44 [INFO]: Series "Womens T20I Quadrangular Series in Namibia 2023" saved successfully.
+2024-12-27 14:56:44 [INFO]: Series "Victoria Women T20I Series 2023" saved successfully.
+2024-12-27 14:56:44 [INFO]: Series "Zimbabwe Women tour of Thailand, 2023" saved successfully.
+2024-12-27 14:56:44 [INFO]: Series "Ireland tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:44 [INFO]: Series "ACC Mens Premier Cup 2023" saved successfully.
+2024-12-27 14:56:45 [INFO]: Series "Victoria Women T20I Series 2023" saved successfully.
+2024-12-27 14:56:45 [INFO]: Series "New Zealand tour of Pakistan, 2023" saved successfully.
+2024-12-27 14:56:45 [INFO]: Series "Gibraltar tour of Portugal, 2023" saved successfully.
+2024-12-27 14:56:45 [INFO]: Series "Australia A tour of New Zealand, 2023" saved successfully.
+2024-12-27 14:56:45 [INFO]: Series "Netherlands tour of South Africa, 2023" saved successfully.
+2024-12-27 14:56:45 [INFO]: Series "Indian Premier League 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "Nigeria Invitational Womens T20I Series 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "ICC Cricket World Cup Qualifier Play-off 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "Afghanistan v Pakistan in UAE, 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "Netherlands tour of Zimbabwe, 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "Ireland tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "Legends League Cricket 2023" saved successfully.
+2024-12-27 14:56:46 [INFO]: Series "Hong Kong Quadrangular Series 2023" saved successfully.
+2024-12-27 14:56:47 [INFO]: Series "Sri Lanka tour New Zealand, 2023" saved successfully.
+2024-12-27 14:56:47 [INFO]: Series "Womens Premier League 2023" saved successfully.
+2024-12-27 14:56:47 [INFO]: Series "England tour of Bangladesh, 2023" saved successfully.
+2024-12-27 14:56:47 [INFO]: Series "Irani Cup 2022-23" saved successfully.
+2024-12-27 14:56:47 [INFO]: Series "West Indies tour of South Africa, 2023" saved successfully.
+2024-12-27 14:56:47 [INFO]: Series "ICC Mens T20 World Cup Americas Qualifier 2023" saved successfully.
+2024-12-27 14:56:48 [INFO]: Series "Isle of Man tour of Spain, 2023" saved successfully.
+2024-12-27 14:56:48 [INFO]: Series "Bermuda tour of Argentina, 2023" saved successfully.
+2024-12-27 14:56:48 [INFO]: Series "Afghanistan tour of United Arab Emirates, 2023" saved successfully.
+2024-12-27 14:56:48 [INFO]: Series "England tour of New Zealand, 2023" saved successfully.
+2024-12-27 14:56:48 [INFO]: Series "Pakistan Super League, 2023" saved successfully.
+2024-12-27 14:56:48 [INFO]: Series "ICC Womens T20 World Cup 2023" saved successfully.
+2024-12-27 14:56:49 [INFO]: Series "Australia tour of India, 2023" saved successfully.
+2024-12-27 14:56:49 [INFO]: Series "Singapore Women tour of Cambodia, 2023" saved successfully.
+2024-12-27 14:56:49 [INFO]: Series "ICC Womens T20 World Cup Warm-up Matches 2023" saved successfully.
+2024-12-27 14:56:49 [INFO]: Series "West Indies tour of Zimbabwe, 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "England Lions tour of Sri Lanka, 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "England tour of South Africa, 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "Womens T20I Tri-Series in South Africa 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "New Zealand tour of India, 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "Pakistan Women tour of Australia, 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "ICC Under 19 Womens T20 World Cup 2023" saved successfully.
+2024-12-27 14:56:50 [INFO]: Series "Ireland tour of Zimbabwe, 2023" saved successfully.
+2024-12-27 14:56:51 [INFO]: Series "SA20, 2023" saved successfully.
+2024-12-27 14:56:51 [INFO]: Series "Bangladesh Premier League 2023" saved successfully.
+2024-12-27 14:56:51 [INFO]: Series "Sri Lanka tour of India, 2023" saved successfully.
+2024-12-27 14:56:51 [INFO]: Series "New Zealand tour of Pakistan, 2022-23" saved successfully.
+2024-12-27 14:56:51 [INFO]: Series "India Women Under-19s tour of South Africa, 2022-23" saved successfully.
+2024-12-27 14:56:51 [INFO]: Series "Super Smash 2022-23" saved successfully.
+2024-12-27 14:56:52 [INFO]: Series "South Africa tour of Australia, 2022-23" saved successfully.
+2024-12-27 14:56:52 [INFO]: Series "Womens Quadrangular Series in Kenya 2022" saved successfully.
+2024-12-27 14:56:52 [INFO]: Series "South Africa tour of Australia, 2022-23" saved successfully.
+2024-12-27 14:56:52 [INFO]: Series "Malaysia Quadrangular Series 2022-23" saved successfully.
+2024-12-27 14:56:52 [INFO]: Series "Ranji Trophy 2022-23" saved successfully.
+2024-12-27 14:56:52 [INFO]: Series "Big Bash League 2022-23" saved successfully.
+2024-12-27 14:56:53 [INFO]: Series "East Africa T20I Series 2022" saved successfully.
+2024-12-27 14:56:53 [INFO]: Series "Womens T20I Tri-Series in Kenya 2022" saved successfully.
+2024-12-27 14:56:53 [INFO]: Series "Australia Women tour of India, 2022" saved successfully.
+2024-12-27 14:56:53 [INFO]: Series "India tour of Bangladesh, 2022" saved successfully.
+2024-12-27 14:56:53 [INFO]: Series "England Women tour of West Indies, 2022" saved successfully.
+2024-12-27 14:56:54 [INFO]: Series "CSA Provincial One-Day Challenge Division Two 2022-23" saved successfully.
+2024-12-27 14:56:54 [INFO]: Series "Bangladesh Women tour of New Zealand, 2022" saved successfully.
+2024-12-27 14:56:54 [INFO]: Series "CSA Provincial One-Day Challenge Division One 2022-23" saved successfully.
+2024-12-27 14:56:54 [INFO]: Series "India A tour of Bangladesh, 2022" saved successfully.
+2024-12-27 14:56:54 [INFO]: Series "Afghanistan tour of Sri Lanka, 2022" saved successfully.
+2024-12-27 14:56:55 [INFO]: Series "T10 League 2022" saved successfully.
+2024-12-27 14:56:55 [INFO]: Series "The Ford Trophy 2022-23" saved successfully.
+2024-12-27 14:56:55 [INFO]: Series "Womens T20 Challenger Trophy 2022" saved successfully.
+2024-12-27 14:56:56 [INFO]: Series "Netherlands Women tour of Thailand, 2022" saved successfully.
+2024-12-27 14:56:56 [INFO]: Series "India tour of New Zealand, 2022" saved successfully.
+2024-12-27 14:56:56 [INFO]: Series "ICC Mens T20 World Cup Sub Regional Africa Qualifier A 2022" saved successfully.
+2024-12-27 14:56:56 [INFO]: Series "ICC Mens T20 World Cup Sub Regional Africa Qualifier B 2022" saved successfully.
+2024-12-27 14:56:56 [INFO]: Series "United Arab Emirates tour of Nepal, 2022" saved successfully.
+2024-12-27 14:56:56 [INFO]: Series "Desert Cup T20I Series 2022" saved successfully.
+2024-12-27 14:56:57 [INFO]: Series "Womens Pentangular Series in Spain 2022" saved successfully.
+2024-12-27 14:56:57 [INFO]: Series "Ireland Women tour of Pakistan, 2022" saved successfully.
+2024-12-27 14:56:57 [INFO]: Series "Spain Triangular T20I Series, 2022-23" saved successfully.
+2024-12-27 14:56:57 [INFO]: Series "Singapore Women tour of Indonesia, 2022" saved successfully.
+2024-12-27 14:56:57 [INFO]: Series "Rwanda tour of Tanzania, 2022" saved successfully.
+2024-12-27 14:56:57 [INFO]: Series "Womens East Asia Cup 2022" saved successfully.
+2024-12-27 14:56:58 [INFO]: Series "4-Day Franchise Series 2022-23" saved successfully.
+2024-12-27 14:56:58 [INFO]: Series "CSA T20 Challenge 2022-23" saved successfully.
+2024-12-27 14:56:58 [INFO]: Series "ICC Mens T20 World Cup 2022" saved successfully.
+2024-12-27 14:56:58 [INFO]: Series "ICC Mens T20 World Cup East Asia Pacific Qualifier B 2022" saved successfully.
+2024-12-27 14:56:58 [INFO]: Series "Womens Big Bash League 2022" saved successfully.
+2024-12-27 14:56:58 [INFO]: Series "Syed Mushtaq Ali Trophy 2022" saved successfully.
+2024-12-27 14:56:59 [INFO]: Series "ICC Mens T20 World Cup Warm-up Matches 2022" saved successfully.
+2024-12-27 14:56:59 [INFO]: Series "T20 WC Warm-up Matches IND v WA X1 2022" saved successfully.
+2024-12-27 14:56:59 [INFO]: Series "England tour of Australia, 2022" saved successfully.
+2024-12-27 14:56:59 [INFO]: Series "Indonesia tour of Japan, 2022" saved successfully.
+2024-12-27 14:56:59 [INFO]: Series "New Zealand T20I Tri-Series 2022" saved successfully.
+2024-12-27 14:56:59 [INFO]: Series "West Indies tour of Australia, 2022" saved successfully.
+2024-12-27 14:57:00 [INFO]: Series "Plunket Shield 2022-23" saved successfully.
+2024-12-27 14:57:00 [INFO]: Series "Sheffield Shield 2022-23" saved successfully.
+2024-12-27 14:57:00 [INFO]: Series "Womens T20 Pacific Cup 2022" saved successfully.
+2024-12-27 14:57:00 [INFO]: Series "Irani Cup 2022" saved successfully.
+2024-12-27 14:57:00 [INFO]: Series "Womens Asia Cup T20 2022" saved successfully.
+2024-12-27 14:57:00 [INFO]: Series "CSA Provincial T20 Cup 2022" saved successfully.
+2024-12-27 14:57:01 [INFO]: Series "South Africa tour of India, 2022" saved successfully.
+2024-12-27 14:57:01 [INFO]: Series "Bangladesh tour of United Arab Emirates, 2022" saved successfully.
+2024-12-27 14:57:01 [INFO]: Series "Australia Domestic One-Day Cup 2022-23" saved successfully.
+2024-12-27 14:57:01 [INFO]: Series "Australia tour of India, 2022" saved successfully.
+2024-12-27 14:57:01 [INFO]: Series "England tour of Pakistan, 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "ICC Womens T20 World Cup Qualifier 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "Legends League Cricket 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "New Zealand Women tour of West Indies, 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "Africa Cricket Association Cup 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "Womens T20I Quadrangular Series in UAE 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "India Women tour of England, 2022" saved successfully.
+2024-12-27 14:57:02 [INFO]: Series "Road Safety World Series T20 2022" saved successfully.
+2024-12-27 14:57:03 [INFO]: Series "ICC Mens T20 World Cup East Asia Pacific Qualifier A 2022" saved successfully.
+2024-12-27 14:57:03 [INFO]: Series "Duleep Trophy 2022" saved successfully.
+2024-12-27 14:57:03 [INFO]: Series "New Zealand tour of Australia, 2022" saved successfully.
+2024-12-27 14:57:03 [INFO]: Series "Ireland Women tour of Scotland, 2022" saved successfully.
+2024-12-27 14:57:03 [INFO]: Series "New Zealand A tour of India, 2022" saved successfully.
+2024-12-27 14:57:04 [INFO]: Series "Womens Caribbean Premier League, 2022" saved successfully.
+2024-12-27 14:57:04 [INFO]: Series "Zimbabwe tour of Australia, 2022" saved successfully.
+2024-12-27 14:57:04 [INFO]: Series "Asia Cup 2022" saved successfully.
+2024-12-27 14:57:04 [INFO]: Series "Nepal tour of Kenya, 2022" saved successfully.
+2024-12-27 14:57:05 [INFO]: Series "Ireland Women tour of Netherlands, 2022" saved successfully.
+2024-12-27 14:57:05 [INFO]: Series "Asia Cup Qualifier 2022" saved successfully.
+2024-12-27 14:57:05 [INFO]: Series "India tour of Zimbabwe, 2022" saved successfully.
+2024-12-27 14:57:05 [INFO]: Series "Italy Women tour of Austria, 2022" saved successfully.
+2024-12-27 14:57:05 [INFO]: Series "Pakistan tour of Netherlands, 2022" saved successfully.
+2024-12-27 14:57:05 [INFO]: Series "The Hundred Womens Competition 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "Bahrain v Kuwait in Oman T20I Series, 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "New Zealand tour of West Indies, 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "Afghanistan tour of Ireland, 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "Maharaja Trophy KSCA T20 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "New Zealand tour of Netherlands, 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "South Africa v Ireland in England, 2022" saved successfully.
+2024-12-27 14:57:06 [INFO]: Series "The Hundred Mens Competition 2022" saved successfully.
+2024-12-27 14:57:07 [INFO]: Series "Royal London One-Day Cup 2022" saved successfully.
+2024-12-27 14:57:07 [INFO]: Series "Lanka Premier League 2022 (Postponed)" saved successfully.
+2024-12-27 14:57:07 [INFO]: Series "England Domestic One-Day Cup 2023" saved successfully.
+2024-12-27 14:57:07 [INFO]: Series "Lanka Premier League 2022" saved successfully.
+2024-12-27 14:57:07 [INFO]: Series "Bangladesh tour of Zimbabwe, 2022" saved successfully.
+2024-12-27 14:57:07 [INFO]: Series "Commonwealth Games Womens Cricket Competition 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "New Zealand tour of Scotland, 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "India tour of West Indies, 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "South Africa tour of England, 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "Womens T20I Tri-Series in Ireland, 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier Group A 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "Pakistan tour of Sri Lanka, 2022" saved successfully.
+2024-12-27 14:57:08 [INFO]: Series "ICC Mens T20 World Cup Qualifier B 2022" saved successfully.
+2024-12-27 14:57:09 [INFO]: Series "New Zealand tour of Ireland, 2022" saved successfully.
+2024-12-27 14:57:09 [INFO]: Series "Malaysia Women tour of Singapore, 2022" saved successfully.
+2024-12-27 14:57:09 [INFO]: Series "Bulgaria tour of Serbia, 2022" saved successfully.
+2024-12-27 14:57:09 [INFO]: Series "Central Europe Cup 2022" saved successfully.
+2024-12-27 14:57:09 [INFO]: Series "Malaysia Quadrangular Series 2022" saved successfully.
+2024-12-27 14:57:09 [INFO]: Series "Namibia Women tour of Germany, 2022" saved successfully.
+2024-12-27 14:57:10 [INFO]: Series "Papua New Guinea tour of Singapore, 2022" saved successfully.
+2024-12-27 14:57:10 [INFO]: Series "India tour of England, 2022" saved successfully.
+2024-12-27 14:57:10 [INFO]: Series "Namibia T20 Tri-Series 2022" saved successfully.
+2024-12-27 14:57:10 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier Group C 2022" saved successfully.
+2024-12-27 14:57:10 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier Group C 2022" saved successfully.
+2024-12-27 14:57:10 [INFO]: Series "Nepal tour of Canada, 2022" saved successfully.
+2024-12-27 14:57:11 [INFO]: Series "Malaysia tour of Singapore, 2022" saved successfully.
+2024-12-27 14:57:11 [INFO]: Series "Namibia Women tour of Netherlands, 2022" saved successfully.
+2024-12-27 14:57:11 [INFO]: Series "South Africa Women tour of England, 2022" saved successfully.
+2024-12-27 14:57:11 [INFO]: Series "India tour of Ireland, 2022" saved successfully.
+2024-12-27 14:57:11 [INFO]: Series "Guernsey Women tour of Jersey, 2022" saved successfully.
+2024-12-27 14:57:11 [INFO]: Series "Serbia tour of Bulgaria, 2022" saved successfully.
+2024-12-27 14:57:12 [INFO]: Series "Tamil Nadu Premier League 2022" saved successfully.
+2024-12-27 14:57:12 [INFO]: Series "India Women tour of Sri Lanka, 2022" saved successfully.
+2024-12-27 14:57:12 [INFO]: Series "Womens Ashes, 2023" saved successfully.
+2024-12-27 14:57:12 [INFO]: Series "Estonia tour of Finland, 2022" saved successfully.
+2024-12-27 14:57:12 [INFO]: Series "England tour of Netherlands, 2022" saved successfully.
+2024-12-27 14:57:12 [INFO]: Series "ACC Womens T20 Championship 2022" saved successfully.
+2024-12-27 14:57:13 [INFO]: Series "Bangladesh tour of West Indies, 2022" saved successfully.
+2024-12-27 14:57:13 [INFO]: Series "Afghanistan tour of Zimbabwe, 2022" saved successfully.
+2024-12-27 14:57:13 [INFO]: Series "Malta tour of Belgium, 2022" saved successfully.
+2024-12-27 14:57:13 [INFO]: Series "Switzerland tour of Luxembourg, 2022" saved successfully.
+2024-12-27 14:57:13 [INFO]: Series "South Africa tour of India, 2022" saved successfully.
+2024-12-27 14:57:14 [INFO]: Series "Germany T20I Tri-Series 2022" saved successfully.
+2024-12-27 14:57:14 [INFO]: Series "Australia A tour of Sri Lanka, 2022" saved successfully.
+2024-12-27 14:57:14 [INFO]: Series "Australia tour of Sri Lanka, 2022" saved successfully.
+2024-12-27 14:57:14 [INFO]: Series "Hungary tour of Austria, 2022" saved successfully.
+2024-12-27 14:57:14 [INFO]: Series "South Africa Women tour of Ireland, 2022" saved successfully.
+2024-12-27 14:57:15 [INFO]: Series "New Zealand tour of England, 2022" saved successfully.
+2024-12-27 14:57:15 [INFO]: Series "West Indies tour of Netherlands, 2022" saved successfully.
+2024-12-27 14:57:15 [INFO]: Series "T20 Vitality Blast 2022" saved successfully.
+2024-12-27 14:57:15 [INFO]: Series "Sri Lanka Women tour of Pakistan, 2022" saved successfully.
+2024-12-27 14:57:15 [INFO]: Series "Womens T20 Challenge 2022" saved successfully.
+2024-12-27 14:57:15 [INFO]: Series "T20 Blast 2023" saved successfully.
+2024-12-27 14:57:16 [INFO]: Series "Jersey tour of Guernsey, 2022" saved successfully.
+2024-12-27 14:57:16 [INFO]: Series "Namibia tour of Zimbabwe, 2022" saved successfully.
+2024-12-27 14:57:16 [INFO]: Series "Uganda Women tour of Nepal, 2022" saved successfully.
+2024-12-27 14:57:16 [INFO]: Series "Sri Lanka tour of Bangladesh, 2022" saved successfully.
+2024-12-27 14:57:16 [INFO]: Series "Valletta Cup 2022" saved successfully.
+2024-12-27 14:57:16 [INFO]: Series "Finland tour of Denmark, 2022" saved successfully.
+2024-12-27 14:57:17 [INFO]: Series "Womens T20I Quadrangular Series in France, 2022" saved successfully.
+2024-12-27 14:57:17 [INFO]: Series "Zimbabwe A tour of Nepal, 2022" saved successfully.
+2024-12-27 14:57:17 [INFO]: Series "Spain Triangular T20I Series, 2022" saved successfully.
+2024-12-27 14:57:17 [INFO]: Series "Hong Kong Women tour of UAE, 2022" saved successfully.
+2024-12-27 14:57:17 [INFO]: Series "South Africa A tour of Zimbabwe, 2022" saved successfully.
+2024-12-27 14:57:17 [INFO]: Series "Capricorn Womens Tri-Series, 2022" saved successfully.
+2024-12-27 14:57:18 [INFO]: Series "Bahamas tour of Cayman Islands, 2022" saved successfully.
+2024-12-27 14:57:18 [INFO]: Series "Uganda tour of Namibia, 2022" saved successfully.
+2024-12-27 14:57:18 [INFO]: Series "County Championship Division One 2022" saved successfully.
+2024-12-27 14:57:18 [INFO]: Series "County Championship Division Two 2022" saved successfully.
+2024-12-27 14:57:18 [INFO]: Series "County Championship Division One 2023" saved successfully.
+2024-12-27 14:57:18 [INFO]: Series "County Championship Division Two 2023" saved successfully.
+2024-12-27 14:57:19 [INFO]: Series "Nepal T20I Tri-Series 2022" saved successfully.
+2024-12-27 14:57:19 [INFO]: Series "Indian Premier League 2022" saved successfully.
+2024-12-27 14:57:19 [INFO]: Series "Papua New Guinea tour of Nepal, 2022" saved successfully.
+2024-12-27 14:57:19 [INFO]: Series "Bangladesh tour of South Africa, 2022" saved successfully.
+2024-12-27 14:57:19 [INFO]: Series "Australia tour of New Zealand, 2022 (Cancelled)" saved successfully.
+2024-12-27 14:57:19 [INFO]: Series "Netherlands tour of New Zealand, 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "CSA Provincial One-Day Challenge Division One 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "CSA Provincial One-Day Challenge Division Two 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "ICC Womens World Cup 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "Australia tour of Pakistan, 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "ICC Womens World Cup Warm up Matches 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "Sri Lanka tour of India, 2022" saved successfully.
+2024-12-27 14:57:20 [INFO]: Series "Afghanistan tour of Bangladesh, 2022" saved successfully.
+2024-12-27 14:57:21 [INFO]: Series "Vijay Hazare Trophy 2022" saved successfully.
+2024-12-27 14:57:21 [INFO]: Series "ICC Mens T20 World Cup Qualifier A 2022" saved successfully.
+2024-12-27 14:57:21 [INFO]: Series "Ranji Trophy 2021-22" saved successfully.
+2024-12-27 14:57:21 [INFO]: Series "South Africa tour of New Zealand, 2022" saved successfully.
+2024-12-27 14:57:21 [INFO]: Series "Sri Lanka tour of Australia, 2022" saved successfully.
+2024-12-27 14:57:21 [INFO]: Series "India Women tour of New Zealand, 2022" saved successfully.
+2024-12-27 14:57:22 [INFO]: Series "CSA T20 Challenge 2022" saved successfully.
+2024-12-27 14:57:22 [INFO]: Series "West Indies tour of India, 2022" saved successfully.
+2024-12-27 14:57:22 [INFO]: Series "Pakistan Super League, 2022" saved successfully.
+2024-12-27 14:57:22 [INFO]: Series "England tour of West Indies, 2022" saved successfully.
+2024-12-27 14:57:22 [INFO]: Series "International League T20, 2023" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "West Indies tour of Pakistan, 2021-22" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "The Ford Trophy 2021-22" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "4-Day Franchise Series 2021-22" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "Plunket Shield 2021-22" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "Sheffield Shield 2021-22" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "Australia Domestic One-Day Cup 2021-22" saved successfully.
+2024-12-27 14:57:23 [INFO]: Series "ICC Cricket World Cup League Two 2019-23" saved successfully.
+2024-12-27 14:57:24 [INFO]: Series "The Ashes, 2023" saved successfully.
+2024-12-27 14:57:24 [INFO]: Series "Norway Women tour of Sweden, 2021" saved successfully.
+2024-12-27 14:57:24 [INFO]: Series "India Women tour of South Africa, 2001-02" saved successfully.
+2024-12-27 14:57:24 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier Group B 2022" saved successfully.
+2024-12-27 14:57:24 [INFO]: Series "Caribbean Premier League 2022" saved successfully.
+2024-12-27 14:57:24 [INFO]: Series "Mongolia Women tour of Indonesia, 2024" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "Womens Asia Cup T20, 2024" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "Malaysia T20I Tri Nations Cup, 2024" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier A, 2024" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "Womens Asia Cup T20, 2024" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "Singapore Women tour of Philippines 2023" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "The Hundered Women Competition 2024" saved successfully.
+2024-12-27 14:57:25 [INFO]: Series "Philippines tour of Indonesia T20I Series 2023" saved successfully.
+2024-12-27 14:57:26 [INFO]: Series "Zimbabwe tour of England, 2025" saved successfully.
+2024-12-27 14:57:26 [INFO]: Series "ICC Mens T20 World Cup East Asia Pacific Qualifier 2023" saved successfully.
+2024-12-27 14:57:26 [INFO]: Series "US T10 2023" saved successfully.
+2024-12-27 14:57:26 [INFO]: Series "Sri Lanka Under 19 tour of England, 2024" saved successfully.
+2024-12-27 14:57:27 [INFO]: Series "Womens Quadrangular Series in Malaysia 2023" saved successfully.
+2024-12-27 14:57:27 [INFO]: Series "ICC Womens T20 World Cup Africa Region Qualifier 2023" saved successfully.
+2024-12-27 14:57:27 [INFO]: Series "Ireland tour of Zimbabwe, 2023" saved successfully.
+2024-12-27 14:57:27 [INFO]: Series "ICC Mens T20 World Cup Europe Qualifier 2023" saved successfully.
+2024-12-27 14:57:27 [INFO]: Series "Womens European Championship 1989" saved successfully.
+2024-12-27 14:57:28 [INFO]: Series "Kenya Women tour of Indonesia, 2023" saved successfully.
+2024-12-27 14:57:28 [INFO]: Series "Isle of Man Women in Austria, 2023" saved successfully.
+2024-12-27 14:57:28 [INFO]: Series "Road Safety World Series T20 2023 (Postponed)" saved successfully.
+2024-12-27 14:57:28 [INFO]: Series "Asian Legends League, 2024 (Postponed)" saved successfully.
+2024-12-27 14:57:28 [INFO]: Series "England womens tour of New Zealand,2024" saved successfully.
+2024-12-27 14:57:28 [INFO]: Series fetched and stored successfully.
+2024-12-27 14:57:29 [INFO]: Fetched 25 matches. Total fetched: 25/10048
+2024-12-27 14:57:31 [INFO]: Fetched 25 matches. Total fetched: 50/10048
+2024-12-27 14:57:32 [INFO]: Fetched 25 matches. Total fetched: 75/10048
+2024-12-27 14:57:34 [INFO]: Fetched 25 matches. Total fetched: 100/10048
+2024-12-27 14:57:35 [INFO]: Fetched 25 matches. Total fetched: 125/10048
+2024-12-27 14:57:36 [INFO]: Fetched 25 matches. Total fetched: 150/10048
+2024-12-27 14:57:37 [INFO]: Fetched 25 matches. Total fetched: 175/10048
+2024-12-27 14:57:39 [INFO]: Fetched 25 matches. Total fetched: 200/10048
+2024-12-27 14:57:40 [INFO]: Fetched 25 matches. Total fetched: 225/10048
+2024-12-27 14:57:42 [INFO]: Fetched 25 matches. Total fetched: 250/10048
+2024-12-27 14:57:43 [INFO]: Fetched 25 matches. Total fetched: 275/10048
+2024-12-27 14:57:44 [INFO]: Fetched 25 matches. Total fetched: 300/10048
+2024-12-27 14:57:45 [INFO]: Extracted 108 unique teams from matches.
+2024-12-27 14:57:46 [INFO]: Team "New Zealand XI" saved successfully.
+2024-12-27 14:57:46 [INFO]: Team "Sri Lanka" saved successfully.
+2024-12-27 14:57:46 [INFO]: Team "Australia" saved successfully.
+2024-12-27 14:57:46 [INFO]: Team "Bhutan Women" saved successfully.
+2024-12-27 14:57:46 [INFO]: Team "Myanmar Women" saved successfully.
+2024-12-27 14:57:46 [INFO]: Team "Singapore Women" saved successfully.
+2024-12-27 14:57:47 [INFO]: Team "Philippines Women" saved successfully.
+2024-12-27 14:57:47 [INFO]: Team "Gibraltar Women" saved successfully.
+2024-12-27 14:57:47 [INFO]: Team "Jersey Women" saved successfully.
+2024-12-27 14:57:47 [INFO]: Team "Tbc" saved successfully.
+2024-12-27 14:57:47 [INFO]: Team "Desert Vipers" saved successfully.
+2024-12-27 14:57:48 [INFO]: Team "Dubai Capitals" saved successfully.
+2024-12-27 14:57:48 [INFO]: Team "Abu Dhabi Knight Riders" saved successfully.
+2024-12-27 14:57:48 [INFO]: Team "Mi Emirates" saved successfully.
+2024-12-27 14:57:48 [INFO]: Team "Sharjah Warriors" saved successfully.
+2024-12-27 14:57:48 [INFO]: Team "Gulf Giants" saved successfully.
+2024-12-27 14:57:48 [INFO]: Team "India Women" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "Ireland Women" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "United Arab Emirates" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "Kuwait" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "Oman" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "Qatar" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "Bahrain" saved successfully.
+2024-12-27 14:57:49 [INFO]: Team "Saudi Arabia" saved successfully.
+2024-12-27 14:57:50 [INFO]: Team "Malaysia Women" saved successfully.
+2024-12-27 14:57:50 [INFO]: Team "Namibia Women" saved successfully.
+2024-12-27 14:57:50 [INFO]: Team "Uganda" saved successfully.
+2024-12-27 14:57:50 [INFO]: Team "Nigeria" saved successfully.
+2024-12-27 14:57:50 [INFO]: Team "Rwanda" saved successfully.
+2024-12-27 14:57:51 [INFO]: Team "Botswana" saved successfully.
+2024-12-27 14:57:51 [INFO]: Team "Kenya" saved successfully.
+2024-12-27 14:57:51 [INFO]: Team "Brazil" saved successfully.
+2024-12-27 14:57:51 [INFO]: Team "Argentina" saved successfully.
+2024-12-27 14:57:51 [INFO]: Team "Suriname" saved successfully.
+2024-12-27 14:57:51 [INFO]: Team "Belize" saved successfully.
+2024-12-27 14:57:52 [INFO]: Team "Mexico" saved successfully.
+2024-12-27 14:57:52 [INFO]: Team "Bahamas" saved successfully.
+2024-12-27 14:57:52 [INFO]: Team "Cayman Islands" saved successfully.
+2024-12-27 14:57:52 [INFO]: Team "Bermuda" saved successfully.
+2024-12-27 14:57:52 [INFO]: Team "Panama" saved successfully.
+2024-12-27 14:57:52 [INFO]: Team "Qatar Women" saved successfully.
+2024-12-27 14:57:53 [INFO]: Team "Bahrain Women" saved successfully.
+2024-12-27 14:57:53 [INFO]: Team "Thailand Women" saved successfully.
+2024-12-27 14:57:53 [INFO]: Team "Hong Kong Women" saved successfully.
+2024-12-27 14:57:53 [INFO]: Team "China Women" saved successfully.
+2024-12-27 14:57:53 [INFO]: Team "Nottinghamshire" saved successfully.
+2024-12-27 14:57:53 [INFO]: Team "Essex" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Lancashire" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Northamptonshire" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Gloucestershire" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Derbyshire" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Glamorgan" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Hampshire" saved successfully.
+2024-12-27 14:57:54 [INFO]: Team "Durham" saved successfully.
+2024-12-27 14:57:55 [INFO]: Team "Sussex" saved successfully.
+2024-12-27 14:57:55 [INFO]: Team "Yorkshire" saved successfully.
+2024-12-27 14:57:55 [INFO]: Team "Warwickshire" saved successfully.
+2024-12-27 14:57:55 [INFO]: Team "Meghalaya" saved successfully.
+2024-12-27 14:57:55 [INFO]: Team "Services" saved successfully.
+2024-12-27 14:57:55 [INFO]: Team "Rajasthan" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Sikkim" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Andhra" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Himachal Pradesh" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Maharashtra" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Railways" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Assam" saved successfully.
+2024-12-27 14:57:56 [INFO]: Team "Uttarakhand" saved successfully.
+2024-12-27 14:57:57 [INFO]: Team "Haryana" saved successfully.
+2024-12-27 14:57:57 [INFO]: Team "Manipur" saved successfully.
+2024-12-27 14:57:57 [INFO]: Team "Goa" saved successfully.
+2024-12-27 14:57:57 [INFO]: Team "Jharkhand" saved successfully.
+2024-12-27 14:57:57 [INFO]: Team "Gujarat" saved successfully.
+2024-12-27 14:57:57 [INFO]: Team "Odisha" saved successfully.
+2024-12-27 14:57:58 [INFO]: Team "Mumbai" saved successfully.
+2024-12-27 14:57:58 [INFO]: Team "Saurashtra" saved successfully.
+2024-12-27 14:57:58 [INFO]: Team "Puducherry" saved successfully.
+2024-12-27 14:57:58 [INFO]: Team "Punjab" saved successfully.
+2024-12-27 14:57:58 [INFO]: Team "Bengal" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Madhya Pradesh" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Bihar" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Kerala" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Baroda" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Delhi" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Chhattisgarh" saved successfully.
+2024-12-27 14:57:59 [INFO]: Team "Tamil Nadu" saved successfully.
+2024-12-27 14:58:00 [INFO]: Team "Mizoram" saved successfully.
+2024-12-27 14:58:00 [INFO]: Team "Vidarbha" saved successfully.
+2024-12-27 14:58:00 [INFO]: Team "Chandigarh" saved successfully.
+2024-12-27 14:58:00 [INFO]: Team "Jammu And Kashmir" saved successfully.
+2024-12-27 14:58:00 [INFO]: Team "Arunachal Pradesh" saved successfully.
+2024-12-27 14:58:00 [INFO]: Team "Hyderabad" saved successfully.
+2024-12-27 14:58:01 [INFO]: Team "Nagaland" saved successfully.
+2024-12-27 14:58:01 [INFO]: Team "Karnataka" saved successfully.
+2024-12-27 14:58:01 [INFO]: Team "Rangpur Riders" saved successfully.
+2024-12-27 14:58:01 [INFO]: Team "Fortune Barishal" saved successfully.
+2024-12-27 14:58:01 [INFO]: Team "Chittagong Kings" saved successfully.
+2024-12-27 14:58:01 [INFO]: Team "Dhaka Capital" saved successfully.
+2024-12-27 14:58:02 [INFO]: Team "Khulna Tigers" saved successfully.
+2024-12-27 14:58:02 [INFO]: Team "Tripura" saved successfully.
+2024-12-27 14:58:02 [INFO]: Team "Sylhet Strikers" saved successfully.
+2024-12-27 14:58:02 [INFO]: Team "Durbar Rajshahi" saved successfully.
+2024-12-27 14:58:02 [INFO]: Team "Wellington" saved successfully.
+2024-12-27 14:58:02 [INFO]: Team "Northern Knights" saved successfully.
+2024-12-27 14:58:03 [INFO]: Team "Central Districts" saved successfully.
+2024-12-27 14:58:03 [INFO]: Team "Auckland" saved successfully.
+2024-12-27 14:58:03 [INFO]: Team "Canterbury" saved successfully.
+2024-12-27 14:58:03 [INFO]: Team "Otago" saved successfully.
+2024-12-27 14:58:03 [INFO]: Team "Uttar Pradesh" saved successfully.
+2024-12-27 14:58:03 [INFO]: Teams fetched and stored successfully.
+2024-12-27 14:58:04 [INFO]: Fetched 25 players. Total fetched: 25/15371
+2024-12-27 14:58:05 [INFO]: Fetched 25 players. Total fetched: 50/15371
+2024-12-27 14:58:07 [INFO]: Fetched 25 players. Total fetched: 75/15371
+2024-12-27 14:58:08 [INFO]: Fetched 25 players. Total fetched: 100/15371
+2024-12-27 14:58:09 [INFO]: Fetched 25 players. Total fetched: 125/15371
+2024-12-27 14:58:11 [INFO]: Fetched 25 players. Total fetched: 150/15371
+2024-12-27 14:58:12 [INFO]: Fetched 25 players. Total fetched: 175/15371
+2024-12-27 14:58:13 [INFO]: Fetched 25 players. Total fetched: 200/15371
+2024-12-27 14:58:15 [INFO]: Fetched 25 players. Total fetched: 225/15371
+2024-12-27 14:58:16 [INFO]: Fetched 25 players. Total fetched: 250/15371
+2024-12-27 14:58:17 [INFO]: Fetched 25 players. Total fetched: 275/15371
+2024-12-27 14:58:18 [INFO]: Fetched 25 players. Total fetched: 300/15371
+2024-12-27 14:58:19 [INFO]: Fetched 300 players from API.
+2024-12-27 14:58:20 [INFO]: Player "Aarsheya Sharma" saved successfully.
+2024-12-27 14:58:20 [INFO]: Player "Lahiru Vimukthi" saved successfully.
+2024-12-27 14:58:20 [INFO]: Player "Abhishek Saini" saved successfully.
+2024-12-27 14:58:20 [INFO]: Player "Sharad Chahar" saved successfully.
+2024-12-27 14:58:21 [INFO]: Player "Abhinav Singh" saved successfully.
+2024-12-27 14:58:21 [INFO]: Player "Rajender Singh" saved successfully.
+2024-12-27 14:58:21 [INFO]: Player "Lamabam Singh" saved successfully.
+2024-12-27 14:58:21 [INFO]: Player "Ismat Alam" saved successfully.
+2024-12-27 14:58:21 [INFO]: Player "Ashley Miranda" saved successfully.
+2024-12-27 14:58:21 [INFO]: Player "Amelia Valdez" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Alex Smith" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Kyte Gullem Keen" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Karri Gullem Keen" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Katie Donovan" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Jessica Medianesta" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Anushka Tomar" saved successfully.
+2024-12-27 14:58:22 [INFO]: Player "Md Talim" saved successfully.
+2024-12-27 14:58:23 [INFO]: Player "Varte Kima" saved successfully.
+2024-12-27 14:58:23 [INFO]: Player "Hardik Chowdhry" saved successfully.
+2024-12-27 14:58:23 [INFO]: Player "Ahammed Imran" saved successfully.
+2024-12-27 14:58:23 [INFO]: Player "Pratika Rawal" saved successfully.
+2024-12-27 14:58:23 [INFO]: Player "Ravi Prakash" saved successfully.
+2024-12-27 14:58:23 [INFO]: Player "Harsh Yadav" saved successfully.
+2024-12-27 14:58:24 [INFO]: Player "Sangeet Soni" saved successfully.
+2024-12-27 14:58:24 [INFO]: Player "CV Achyuth" saved successfully.
+2024-12-27 14:58:24 [INFO]: Player "Ravi Yadav" saved successfully.
+2024-12-27 14:58:24 [INFO]: Player "Honey Khari" saved successfully.
+2024-12-27 14:58:24 [INFO]: Player "Devansh Gupta" saved successfully.
+2024-12-27 14:58:24 [INFO]: Player "Thokchom Anand" saved successfully.
+2024-12-27 14:58:25 [INFO]: Player "Alauddin Ansari" saved successfully.
+2024-12-27 14:58:25 [INFO]: Player "Nishanta Chakraborty" saved successfully.
+2024-12-27 14:58:25 [INFO]: Player "Parth Vats" saved successfully.
+2024-12-27 14:58:25 [INFO]: Player "Shashwat Dangwal" saved successfully.
+2024-12-27 14:58:25 [INFO]: Player "Purnank Tyagi " saved successfully.
+2024-12-27 14:58:26 [INFO]: Player "Midde Anjaneyulu" saved successfully.
+2024-12-27 14:58:26 [INFO]: Player "Munnangi Abhinav" saved successfully.
+2024-12-27 14:58:26 [INFO]: Player "Pruthvi Raju" saved successfully.
+2024-12-27 14:58:26 [INFO]: Player "Andimani Teja" saved successfully.
+2024-12-27 14:58:26 [INFO]: Player "Aman Singh Shekhawat" saved successfully.
+2024-12-27 14:58:26 [INFO]: Player "Rajveer Singh Rathore" saved successfully.
+2024-12-27 14:58:27 [INFO]: Player "Apporav Walia" saved successfully.
+2024-12-27 14:58:27 [INFO]: Player "Anil Parida" saved successfully.
+2024-12-27 14:58:27 [INFO]: Player "Tapas Das" saved successfully.
+2024-12-27 14:58:27 [INFO]: Player "Sarbeswar Mohanty" saved successfully.
+2024-12-27 14:58:27 [INFO]: Player "Harsh Tanna" saved successfully.
+2024-12-27 14:58:28 [INFO]: Player "Vinayak Bhoir" saved successfully.
+2024-12-27 14:58:28 [INFO]: Player "Prabal Pratap Singh" saved successfully.
+2024-12-27 14:58:28 [INFO]: Player "Dwaipayan Bhattacharjee" saved successfully.
+2024-12-27 14:58:28 [INFO]: Player "Tejasvi Dahiya" saved successfully.
+2024-12-27 14:58:28 [INFO]: Player "Vikas Singh" saved successfully.
+2024-12-27 14:58:29 [INFO]: Player "Nehal Pajni" saved successfully.
+2024-12-27 14:58:29 [INFO]: Player "Tushar Joshi" saved successfully.
+2024-12-27 14:58:29 [INFO]: Player "Muhammed Basil" saved successfully.
+2024-12-27 14:58:29 [INFO]: Player "Marcus Bean" saved successfully.
+2024-12-27 14:58:29 [INFO]: Player "Isabella Rose James" saved successfully.
+2024-12-27 14:58:29 [INFO]: Player "Harriet Currie" saved successfully.
+2024-12-27 14:58:30 [INFO]: Player "Olivia Bastin" saved successfully.
+2024-12-27 14:58:30 [INFO]: Player "Noelle Laguea" saved successfully.
+2024-12-27 14:58:30 [INFO]: Player "Kavindu Nirmana" saved successfully.
+2024-12-27 14:58:30 [INFO]: Player "Choudhry Md Imran" saved successfully.
+2024-12-27 14:58:30 [INFO]: Player "Nandini Kashyap" saved successfully.
+2024-12-27 14:58:30 [INFO]: Player "Raghvi Bist" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Kristan Tillett" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Austin Anlezark" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Muhammad Asim" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Vinayak Shukla" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Mohammad Zuber Sunasara" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Anwar Saleem" saved successfully.
+2024-12-27 14:58:31 [INFO]: Player "Javelle Gallimore" saved successfully.
+2024-12-27 14:58:32 [INFO]: Player "Adam Kruger" saved successfully.
+2024-12-27 14:58:32 [INFO]: Player "Danal Hemananda" saved successfully.
+2024-12-27 14:58:32 [INFO]: Player "Nimsara Atharagalla" saved successfully.
+2024-12-27 14:58:32 [INFO]: Player "Romaine Smith" saved successfully.
+2024-12-27 14:58:32 [INFO]: Player "Kervin Ebanks" saved successfully.
+2024-12-27 14:58:32 [INFO]: Player "Sheetal Hate" saved successfully.
+2024-12-27 14:58:33 [INFO]: Player "Parth Jayeshbhai Patel" saved successfully.
+2024-12-27 14:58:33 [INFO]: Player "Samuel Foster" saved successfully.
+2024-12-27 14:58:33 [INFO]: Player "Sheldon Crawford" saved successfully.
+2024-12-27 14:58:33 [INFO]: Player "Ronald Ebanks" saved successfully.
+2024-12-27 14:58:33 [INFO]: Player "Rickel Walker" saved successfully.
+2024-12-27 14:58:33 [INFO]: Player "Jermaine Baker" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Jonte Smith" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Rupesh Kumar Singh" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Jhaancy Matadha" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Brandon Lewis" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Alexander Oxley" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Yashvanth Jasti" saved successfully.
+2024-12-27 14:58:34 [INFO]: Player "Pradeep Mohanarangam" saved successfully.
+2024-12-27 14:58:35 [INFO]: Player "Kashigoud Patil" saved successfully.
+2024-12-27 14:58:35 [INFO]: Player "Rohit Poojary" saved successfully.
+2024-12-27 14:58:35 [INFO]: Player "Keagan Tillett" saved successfully.
+2024-12-27 14:58:35 [INFO]: Player "Brian Cassasola" saved successfully.
+2024-12-27 14:58:35 [INFO]: Player "Renrick Rose" saved successfully.
+2024-12-27 14:58:35 [INFO]: Player "Lawrence Bonner" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Javonn Wade" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Russhane Jones" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Jaron Pakeman" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Jermaine Pook" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Clint Stephenson" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Luiz Morais" saved successfully.
+2024-12-27 14:58:36 [INFO]: Player "Eugene Duff" saved successfully.
+2024-12-27 14:58:37 [INFO]: Player "Dwight Glenroy Weakley" saved successfully.
+2024-12-27 14:58:37 [INFO]: Player "Sifat Ullah Bakhtani" saved successfully.
+2024-12-27 14:58:37 [INFO]: Player "Richard Avery" saved successfully.
+2024-12-27 14:58:37 [INFO]: Player "JT Harris" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Breeze Ahir" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Yuvraj Dayal" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Troy Dudnath" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Romario Ramjiawan" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Leandro Moekamat" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Khemraj Dookallo" saved successfully.
+2024-12-27 14:58:38 [INFO]: Player "Giovani Gokoel" saved successfully.
+2024-12-27 14:58:39 [INFO]: Player "Khemraj Jaikaran" saved successfully.
+2024-12-27 14:58:39 [INFO]: Player "Kemraj Hardat" saved successfully.
+2024-12-27 14:58:39 [INFO]: Player "Xaviee Safiero Smith" saved successfully.
+2024-12-27 14:58:39 [INFO]: Player "Stephan Amirullah" saved successfully.
+2024-12-27 14:58:39 [INFO]: Player "Gavin Singh" saved successfully.
+2024-12-27 14:58:39 [INFO]: Player "Vishwar Shaw" saved successfully.
+2024-12-27 14:58:40 [INFO]: Player "Vishaul Singh" saved successfully.
+2024-12-27 14:58:40 [INFO]: Player "Taarkheswar Ramautar" saved successfully.
+2024-12-27 14:58:40 [INFO]: Player "Abdul Anwar Bhikari" saved successfully.
+2024-12-27 14:58:40 [INFO]: Player "Vejai Hirlal" saved successfully.
+2024-12-27 14:58:40 [INFO]: Player "Arun Gokoel" saved successfully.
+2024-12-27 14:58:41 [INFO]: Player "Kevon Fubler" saved successfully.
+2024-12-27 14:58:41 [INFO]: Player "Alex Dore" saved successfully.
+2024-12-27 14:58:41 [INFO]: Player "Hridyanand Singh" saved successfully.
+2024-12-27 14:58:41 [INFO]: Player "Butsha Mfazwe" saved successfully.
+2024-12-27 14:58:41 [INFO]: Player "Enathi Kitshini" saved successfully.
+2024-12-27 14:58:41 [INFO]: Player "Jashwanth Shreeram" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Shrey Sharma" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Harshil Doshi" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Yash V Thakur" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Rukundo Jean Pierre" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Tumelo Mpatane" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Saee Parkhi" saved successfully.
+2024-12-27 14:58:42 [INFO]: Player "Shruti Yadav" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Zayneb Fazil" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Amma Kashif" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Maria Theresa Jacob" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Roheed Akhtar" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Sargam Patel" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Ravi Singh" saved successfully.
+2024-12-27 14:58:43 [INFO]: Player "Sagar Kisan Sakpal" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Sushant Rana" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Mani Sharma" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Aniket Verma" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Prashant Singh" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Mukesh Gupta" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Raf MacMillan" saved successfully.
+2024-12-27 14:58:44 [INFO]: Player "Azaan Thota" saved successfully.
+2024-12-27 14:58:45 [INFO]: Player "Ankit Singh" saved successfully.
+2024-12-27 14:58:45 [INFO]: Player "Mridul Surroch" saved successfully.
+2024-12-27 14:58:45 [INFO]: Player "Vinay" saved successfully.
+2024-12-27 14:58:45 [INFO]: Player "Lalit Kumar" saved successfully.
+2024-12-27 14:58:45 [INFO]: Player "Alish" saved successfully.
+2024-12-27 14:58:45 [INFO]: Player "Madhur" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Abhishek Desai" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Bonnie Berry" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Harsh Desai" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Jackson Smith" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Subham Satrujit" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Deepak" saved successfully.
+2024-12-27 14:58:46 [INFO]: Player "Mohammad Ahmed" saved successfully.
+2024-12-27 14:58:47 [INFO]: Player "Umar Zaib" saved successfully.
+2024-12-27 14:58:47 [INFO]: Player "Mohammed Huzaifa" saved successfully.
+2024-12-27 14:58:47 [INFO]: Player "Faham-ul-Haq" saved successfully.
+2024-12-27 14:58:47 [INFO]: Player "Abdul Subhan" saved successfully.
+2024-12-27 14:58:47 [INFO]: Player "Usman Khan" saved successfully.
+2024-12-27 14:58:47 [INFO]: Player "Farhan Yousaf" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Kai Wall" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Max Yonekawa Lynn" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Pranav Pant" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Yuto Yageta" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Nihar Parmar" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Skyler Nakayama Cook" saved successfully.
+2024-12-27 14:58:48 [INFO]: Player "Noorullah Ayobi" saved successfully.
+2024-12-27 14:58:49 [INFO]: Player "Abdulla Tarique" saved successfully.
+2024-12-27 14:58:49 [INFO]: Player "Ali Asgar Shums" saved successfully.
+2024-12-27 14:58:49 [INFO]: Player "Faisur Rahman" saved successfully.
+2024-12-27 14:58:49 [INFO]: Player "Uddish Suri" saved successfully.
+2024-12-27 14:58:49 [INFO]: Player "Rachit Ghosh" saved successfully.
+2024-12-27 14:58:49 [INFO]: Player "Mudit Agarwal" saved successfully.
+2024-12-27 14:58:50 [INFO]: Player "Karan Dhiman" saved successfully.
+2024-12-27 14:58:50 [INFO]: Player "Muhammad Rayan Khan" saved successfully.
+2024-12-27 14:58:50 [INFO]: Player "Aryan Saxena" saved successfully.
+2024-12-27 14:58:50 [INFO]: Player "Jem Ryan" saved successfully.
+2024-12-27 14:58:50 [INFO]: Player "Hanno Jacobs" saved successfully.
+2024-12-27 14:58:50 [INFO]: Player "Muhammad Arfan" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Aayush Singh" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Digvesh Rathi" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Callum Stow" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Max Birthisel" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Fahim Khewawal" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Khatir Stanikzai" saved successfully.
+2024-12-27 14:58:51 [INFO]: Player "Abdul Aziz" saved successfully.
+2024-12-27 14:58:52 [INFO]: Player "Naren Bhatta" saved successfully.
+2024-12-27 14:58:52 [INFO]: Player "Danish Choudhary" saved successfully.
+2024-12-27 14:58:52 [INFO]: Player "Shivendra Bhujbal" saved successfully.
+2024-12-27 14:58:52 [INFO]: Player "Sougrakpam Singh" saved successfully.
+2024-12-27 14:58:52 [INFO]: Player "Anshul Singh" saved successfully.
+2024-12-27 14:58:52 [INFO]: Player "Sparsh Joshi" saved successfully.
+2024-12-27 14:58:53 [INFO]: Player "Riaz Uddin" saved successfully.
+2024-12-27 14:58:53 [INFO]: Player "Lal Rin Fela" saved successfully.
+2024-12-27 14:58:53 [INFO]: Player "Ouattara Issouf" saved successfully.
+2024-12-27 14:58:53 [INFO]: Player "Assouan Roger" saved successfully.
+2024-12-27 14:58:53 [INFO]: Player "Ishmael Komba" saved successfully.
+2024-12-27 14:58:53 [INFO]: Player "Jordan Yon" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Dane Leo" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Delroy Leo" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Rohullah" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Nazifullah Amiri" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Hafeez Zadran" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Nooristani Omarzai" saved successfully.
+2024-12-27 14:58:54 [INFO]: Player "Barkat Ibrahimzai" saved successfully.
+2024-12-27 14:58:55 [INFO]: Player "Hamza Khan Alikhil" saved successfully.
+2024-12-27 14:58:55 [INFO]: Player "Ezat Barakzai" saved successfully.
+2024-12-27 14:58:55 [INFO]: Player "Uzairullah Niazai" saved successfully.
+2024-12-27 14:58:55 [INFO]: Player "Mahboob Khan" saved successfully.
+2024-12-27 14:58:55 [INFO]: Player "Saad Islam Razin" saved successfully.
+2024-12-27 14:58:55 [INFO]: Player "Kalam Siddiki Aleen" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "Md Farid Hasan Faysal" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "Al Fahad" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "Debasish Sarkar Deba" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "Md Samiun Basir Ratul" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "MD Rifat Beg" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "Zawad Abrar" saved successfully.
+2024-12-27 14:58:56 [INFO]: Player "Md Azizul Hakim Tamim" saved successfully.
+2024-12-27 14:58:57 [INFO]: Player "Unish Bikram Singh" saved successfully.
+2024-12-27 14:58:57 [INFO]: Player "Yuvraj Khatri" saved successfully.
+2024-12-27 14:58:57 [INFO]: Player "Ranjit Kumar" saved successfully.
+2024-12-27 14:58:57 [INFO]: Player "Aprajit Poudel" saved successfully.
+2024-12-27 14:58:57 [INFO]: Player "Bipin Mahato" saved successfully.
+2024-12-27 14:58:57 [INFO]: Player "Naren Saud" saved successfully.
+2024-12-27 14:58:58 [INFO]: Player "Santosh Yadav" saved successfully.
+2024-12-27 14:58:58 [INFO]: Player "Abhisekh Tiwari" saved successfully.
+2024-12-27 14:58:58 [INFO]: Player "Roshan Bishwakarma" saved successfully.
+2024-12-27 14:58:58 [INFO]: Player "Mayan Yadav" saved successfully.
+2024-12-27 14:58:58 [INFO]: Player "Geethika De Silva" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Viran Chamuditha" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Ramiru Perera" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Lakvin Abeysinghe" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Dulnith Sigera" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Mathulan Kugathas" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Newton Ranjith kumar" saved successfully.
+2024-12-27 14:58:59 [INFO]: Player "Yenula Dewthusa" saved successfully.
+2024-12-27 14:59:00 [INFO]: Player "Kavija Gamage" saved successfully.
+2024-12-27 14:59:00 [INFO]: Player "Vimath Dinsara" saved successfully.
+2024-12-27 14:59:00 [INFO]: Player "Tanuja Rajapakse" saved successfully.
+2024-12-27 14:59:00 [INFO]: Player "Saud Syed Iqbal Ahmad" saved successfully.
+2024-12-27 14:59:00 [INFO]: Player "Toko Techir" saved successfully.
+2024-12-27 14:59:01 [INFO]: Player "Adil Ayub Tunda" saved successfully.
+2024-12-27 14:59:01 [ERROR]: Error saving player "": Player validation failed: name: Path `name` is required.
+2024-12-27 14:59:01 [INFO]: Player "SDNV Prasad" saved successfully.
+2024-12-27 14:59:01 [INFO]: Player "Vivek Ranjan" saved successfully.
+2024-12-27 14:59:01 [INFO]: Player "Ramesh Rahul" saved successfully.
+2024-12-27 14:59:01 [INFO]: Player "Abhishek Pujari" saved successfully.
+2024-12-27 14:59:01 [INFO]: Player "Pratik Kumar" saved successfully.
+2024-12-27 14:59:02 [INFO]: Player "Sambit S Baral" saved successfully.
+2024-12-27 14:59:02 [INFO]: Player "Soubam Rohit Kiran Singh" saved successfully.
+2024-12-27 14:59:14 [INFO]: Player "Abhishek Pathak" saved successfully.
+2024-12-27 14:59:14 [INFO]: Player "Zubair Khan" saved successfully.
+2024-12-27 14:59:14 [INFO]: Player "Bailapudi Yeswanth" saved successfully.
+2024-12-27 14:59:15 [INFO]: Player "Shahrukh Ahmed" saved successfully.
+2024-12-27 14:59:15 [ERROR]: Error saving player "": Player validation failed: name: Path `name` is required.
+2024-12-27 14:59:15 [INFO]: Player "Branden Leo" saved successfully.
+2024-12-27 14:59:15 [INFO]: Player "Joey Thomas" saved successfully.
+2024-12-27 14:59:15 [INFO]: Player "Jamie Essex" saved successfully.
+2024-12-27 14:59:15 [INFO]: Player "David Young" saved successfully.
+2024-12-27 14:59:15 [INFO]: Player "Pamba Dimitri" saved successfully.
+2024-12-27 14:59:16 [INFO]: Player "Ladji Ezechiel" saved successfully.
+2024-12-27 14:59:16 [INFO]: Player "Ouattara Djakaridja" saved successfully.
+2024-12-27 14:59:16 [INFO]: Player "Dje Claude" saved successfully.
+2024-12-27 14:59:16 [INFO]: Player "Kone Nagnama" saved successfully.
+2024-12-27 14:59:16 [INFO]: Player "Maiga Ibrahim" saved successfully.
+2024-12-27 14:59:16 [INFO]: Player "Dosso Issiaka" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Mimi Alex" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Kouakou Wilfried" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Ouattara Mohamed" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Kone Aziz" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Arumugaganesh Nagarajan" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Sibusiso Jele" saved successfully.
+2024-12-27 14:59:17 [INFO]: Player "Javid Suleman" saved successfully.
+2024-12-27 14:59:18 [INFO]: Player "Vishal Gaur" saved successfully.
+2024-12-27 14:59:18 [INFO]: Player "Kunwar Pathak" saved successfully.
+2024-12-27 14:59:18 [INFO]: Player "Pradeep Pradhan" saved successfully.
+2024-12-27 14:59:18 [INFO]: Player "Mrityunjay Singh" saved successfully.
+2024-12-27 14:59:18 [INFO]: Player "Khiangte Vanrotlinga" saved successfully.
+2024-12-27 14:59:19 [INFO]: Player "Minhaz Khojbariya" saved successfully.
+2024-12-27 14:59:19 [INFO]: Player "Thandolwethu Dlamini" saved successfully.
+2024-12-27 14:59:19 [INFO]: Player "Buhle Dlamini" saved successfully.
+2024-12-27 14:59:19 [INFO]: Player "Joseph Wright" saved successfully.
+2024-12-27 14:59:19 [INFO]: Player "Nikhil Sharma" saved successfully.
+2024-12-27 14:59:19 [INFO]: Player "Chiragvir Dhindsa" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Pradeep Yadav" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Robin Limboo" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Roshan Kumar" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Aryan Malik" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Kara Hakap" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Muhammad Mohsin" saved successfully.
+2024-12-27 14:59:20 [INFO]: Player "Gourav Choudhury" saved successfully.
+2024-12-27 14:59:20 [INFO]: Players fetched and stored successfully.
+2024-12-27 14:59:21 [INFO]: Fetched 25 matches. Total fetched: 25/10048
+2024-12-27 14:59:23 [INFO]: Fetched 25 matches. Total fetched: 50/10048
+2024-12-27 14:59:25 [INFO]: Fetched 25 matches. Total fetched: 75/10048
+2024-12-27 14:59:27 [INFO]: Fetched 25 matches. Total fetched: 100/10048
+2024-12-27 14:59:28 [INFO]: Fetched 25 matches. Total fetched: 125/10048
+2024-12-27 14:59:29 [INFO]: Fetched 25 matches. Total fetched: 150/10048
+2024-12-27 14:59:31 [INFO]: Fetched 25 matches. Total fetched: 175/10048
+2024-12-27 14:59:32 [INFO]: Fetched 25 matches. Total fetched: 200/10048
+2024-12-27 14:59:33 [INFO]: Fetched 25 matches. Total fetched: 225/10048
+2024-12-27 14:59:35 [INFO]: Fetched 25 matches. Total fetched: 250/10048
+2024-12-27 14:59:36 [INFO]: Fetched 25 matches. Total fetched: 275/10048
+2024-12-27 14:59:37 [INFO]: Fetched 25 matches. Total fetched: 300/10048
+2024-12-27 14:59:38 [INFO]: Fetched 300 matches from API.
+2024-12-27 14:59:39 [INFO]: Match "New Zealand XI vs Sri Lanka, Practice Match 2" saved successfully.
+2024-12-27 14:59:39 [INFO]: Match "New Zealand XI vs Sri Lanka, Practice Match 1" saved successfully.
+2024-12-27 14:59:40 [INFO]: Match "Sri Lanka vs Australia, Only ODI" saved successfully.
+2024-12-27 14:59:40 [INFO]: Match "Sri Lanka vs Australia, 2nd Test" saved successfully.
+2024-12-27 14:59:40 [INFO]: Match "Sri Lanka vs Australia, 1st Test" saved successfully.
+2024-12-27 14:59:41 [INFO]: Match "Bhutan Women vs Myanmar Women, 3rd T20I" saved successfully.
+2024-12-27 14:59:41 [INFO]: Match "Bhutan Women vs Myanmar Women, 2nd T20I" saved successfully.
+2024-12-27 14:59:41 [INFO]: Match "Bhutan Women vs Myanmar Women, 1st T20I" saved successfully.
+2024-12-27 14:59:42 [INFO]: Match "Singapore Women vs Philippines Women, 2nd T20I" saved successfully.
+2024-12-27 14:59:42 [INFO]: Match "Singapore Women vs Philippines Women, 1st T20I" saved successfully.
+2024-12-27 14:59:43 [INFO]: Match "Bhutan Women vs Myanmar Women, 5th T20I" saved successfully.
+2024-12-27 14:59:43 [INFO]: Match "Singapore Women vs Philippines Women, 4th T20I" saved successfully.
+2024-12-27 14:59:43 [INFO]: Match "Bhutan Women vs Myanmar Women, 4th T20I" saved successfully.
+2024-12-27 14:59:44 [INFO]: Match "Singapore Women vs Philippines Women, 3rd T20I" saved successfully.
+2024-12-27 14:59:44 [INFO]: Match "Gibraltar Women vs Jersey Women, 1st T20I" saved successfully.
+2024-12-27 14:59:45 [INFO]: Match "Gibraltar Women vs Jersey Women, 2nd T20I" saved successfully.
+2024-12-27 14:59:45 [INFO]: Match "Tbc vs Tbc, Final" saved successfully.
+2024-12-27 14:59:45 [INFO]: Match "Tbc vs Tbc, Qualifier 2" saved successfully.
+2024-12-27 14:59:46 [INFO]: Match "Tbc vs Tbc, Eliminator" saved successfully.
+2024-12-27 14:59:46 [INFO]: Match "Tbc vs Tbc, Qualifier 1" saved successfully.
+2024-12-27 14:59:47 [INFO]: Match "Desert Vipers vs Dubai Capitals, 30th Match" saved successfully.
+2024-12-27 14:59:47 [INFO]: Match "Dubai Capitals vs Abu Dhabi Knight Riders, 29th Match" saved successfully.
+2024-12-27 14:59:48 [INFO]: Match "Mi Emirates vs Sharjah Warriors, 28th Match" saved successfully.
+2024-12-27 14:59:48 [INFO]: Match "Abu Dhabi Knight Riders vs Gulf Giants, 27th Match" saved successfully.
+2024-12-27 14:59:48 [INFO]: Match "Gulf Giants vs Mi Emirates, 26th Match" saved successfully.
+2024-12-27 14:59:49 [INFO]: Match "Sharjah Warriors vs Abu Dhabi Knight Riders, 25th Match" saved successfully.
+2024-12-27 14:59:49 [INFO]: Match "Desert Vipers vs Gulf Giants, 24th Match" saved successfully.
+2024-12-27 14:59:49 [INFO]: Match "Dubai Capitals vs Sharjah Warriors, 23rd Match" saved successfully.
+2024-12-27 14:59:50 [INFO]: Match "Mi Emirates vs Desert Vipers, 22nd Match" saved successfully.
+2024-12-27 14:59:50 [INFO]: Match "Sharjah Warriors vs Gulf Giants, 21st Match" saved successfully.
+2024-12-27 14:59:51 [INFO]: Match "Abu Dhabi Knight Riders vs Dubai Capitals, 20th Match" saved successfully.
+2024-12-27 14:59:51 [INFO]: Match "Mi Emirates vs Gulf Giants, 19th Match" saved successfully.
+2024-12-27 14:59:51 [INFO]: Match "Sharjah Warriors vs Desert Vipers, 18th Match" saved successfully.
+2024-12-27 14:59:52 [INFO]: Match "Mi Emirates vs Abu Dhabi Knight Riders, 17th Match" saved successfully.
+2024-12-27 14:59:52 [INFO]: Match "Dubai Capitals vs Gulf Giants, 16th Match" saved successfully.
+2024-12-27 14:59:53 [INFO]: Match "Desert Vipers vs Sharjah Warriors, 15th Match" saved successfully.
+2024-12-27 14:59:53 [INFO]: Match "Abu Dhabi Knight Riders vs Mi Emirates, 14th Match" saved successfully.
+2024-12-27 14:59:53 [INFO]: Match "Dubai Capitals vs Desert Vipers, 13th Match" saved successfully.
+2024-12-27 14:59:54 [INFO]: Match "Gulf Giants vs Abu Dhabi Knight Riders, 12th Match" saved successfully.
+2024-12-27 14:59:54 [INFO]: Match "Sharjah Warriors vs Mi Emirates, 11th Match" saved successfully.
+2024-12-27 14:59:54 [INFO]: Match "Gulf Giants vs Dubai Capitals, 10th Match" saved successfully.
+2024-12-27 14:59:55 [INFO]: Match "Desert Vipers vs Abu Dhabi Knight Riders, 9th Match" saved successfully.
+2024-12-27 14:59:55 [INFO]: Match "Sharjah Warriors vs Dubai Capitals, 8th Match" saved successfully.
+2024-12-27 14:59:56 [INFO]: Match "Desert Vipers vs Mi Emirates, 7th Match" saved successfully.
+2024-12-27 14:59:56 [INFO]: Match "India Women vs Ireland Women, 3rd ODI (ICC Championship Match)" saved successfully.
+2024-12-27 14:59:57 [INFO]: Match "Abu Dhabi Knight Riders vs Sharjah Warriors, 6th Match" saved successfully.
+2024-12-27 14:59:57 [INFO]: Match "Gulf Giants vs Desert Vipers, 5th Match" saved successfully.
+2024-12-27 14:59:57 [INFO]: Match "Mi Emirates vs Dubai Capitals, 4th Match" saved successfully.
+2024-12-27 14:59:58 [INFO]: Match "India Women vs Ireland Women, 2nd ODI (ICC Championship Match)" saved successfully.
+2024-12-27 14:59:58 [INFO]: Match "Gulf Giants vs Sharjah Warriors, 3rd Match" saved successfully.
+2024-12-27 14:59:59 [INFO]: Match "Abu Dhabi Knight Riders vs Desert Vipers, 2nd Match" saved successfully.
+2024-12-27 14:59:59 [INFO]: Match "Dubai Capitals vs Mi Emirates, 1st Match" saved successfully.
+2024-12-27 15:00:00 [INFO]: Match "India Women vs Ireland Women, 1st ODI (ICC Championship Match)" saved successfully.
+2024-12-27 15:00:00 [INFO]: Match "United Arab Emirates vs Kuwait, Final" saved successfully.
+2024-12-27 15:00:01 [INFO]: Match "Oman vs Kuwait, 15th Match" saved successfully.
+2024-12-27 15:00:01 [INFO]: Match "Qatar vs Bahrain, 14th Match" saved successfully.
+2024-12-27 15:00:01 [INFO]: Match "United Arab Emirates vs Saudi Arabia, 13th Match" saved successfully.
+2024-12-27 15:00:02 [INFO]: Match "Qatar vs United Arab Emirates, 12th Match" saved successfully.
+2024-12-27 15:00:02 [INFO]: Match "Oman vs Saudi Arabia, 11th Match" saved successfully.
+2024-12-27 15:00:03 [INFO]: Match "Oman vs Bahrain, 10th Match" saved successfully.
+2024-12-27 15:00:03 [INFO]: Match "Qatar vs Kuwait, 9th Match" saved successfully.
+2024-12-27 15:00:04 [INFO]: Match "United Arab Emirates vs Kuwait, 8th Match" saved successfully.
+2024-12-27 15:00:04 [INFO]: Match "Saudi Arabia vs Bahrain, 7th Match" saved successfully.
+2024-12-27 15:00:04 [INFO]: Match "Saudi Arabia vs Qatar, 6th Match" saved successfully.
+2024-12-27 15:00:05 [INFO]: Match "United Arab Emirates vs Oman, 5th Match" saved successfully.
+2024-12-27 15:00:05 [INFO]: Match "Qatar vs Oman, 4th Match" saved successfully.
+2024-12-27 15:00:06 [INFO]: Match "Kuwait vs Bahrain, 3rd Match" saved successfully.
+2024-12-27 15:00:06 [INFO]: Match "Kuwait vs Saudi Arabia, 2nd Match" saved successfully.
+2024-12-27 15:00:07 [INFO]: Match "Bahrain vs United Arab Emirates, 1st Match" saved successfully.
+2024-12-27 15:00:08 [INFO]: Match "Malaysia Women vs Namibia Women, 3rd T20I" saved successfully.
+2024-12-27 15:00:08 [INFO]: Match "Malaysia Women vs Namibia Women, 2nd T20I" saved successfully.
+2024-12-27 15:00:08 [INFO]: Match "Malaysia Women vs Namibia Women, 1st T20I" saved successfully.
+2024-12-27 15:00:09 [INFO]: Match "Uganda vs Nigeria, Final" saved successfully.
+2024-12-27 15:00:09 [INFO]: Match "Rwanda vs Uganda, 20th Match" saved successfully.
+2024-12-27 15:00:10 [INFO]: Match "Botswana vs Kenya, 19th Match" saved successfully.
+2024-12-27 15:00:10 [INFO]: Match "Uganda vs Botswana, 18th Match" saved successfully.
+2024-12-27 15:00:11 [INFO]: Match "Rwanda vs Nigeria, 17th Match" saved successfully.
+2024-12-27 15:00:11 [INFO]: Match "Botswana vs Nigeria, 16th Match" saved successfully.
+2024-12-27 15:00:11 [INFO]: Match "Rwanda vs Uganda, 15th Match" saved successfully.
+2024-12-27 15:00:12 [INFO]: Match "Nigeria vs Uganda, 14th Match" saved successfully.
+2024-12-27 15:00:12 [INFO]: Match "Rwanda vs Botswana, 13th Match" saved successfully.
+2024-12-27 15:00:12 [INFO]: Match "Rwanda vs Nigeria, 12th Match" saved successfully.
+2024-12-27 15:00:13 [INFO]: Match "Botswana vs Uganda, 11th Match" saved successfully.
+2024-12-27 15:00:13 [INFO]: Match "Rwanda vs Botswana, 10th Match" saved successfully.
+2024-12-27 15:00:14 [INFO]: Match "Nigeria vs Uganda, 9th Match" saved successfully.
+2024-12-27 15:00:14 [INFO]: Match "Botswana vs Nigeria, 8th Match" saved successfully.
+2024-12-27 15:00:14 [INFO]: Match "Rwanda vs Uganda, 7th Match" saved successfully.
+2024-12-27 15:00:15 [INFO]: Match "Brazil vs Argentina, Match 36" saved successfully.
+2024-12-27 15:00:15 [INFO]: Match "Suriname vs Belize, Match 35" saved successfully.
+2024-12-27 15:00:16 [INFO]: Match "Mexico vs Bahamas, Match 34" saved successfully.
+2024-12-27 15:00:16 [INFO]: Match "Cayman Islands vs Bermuda, Match 33" saved successfully.
+2024-12-27 15:00:16 [INFO]: Match "Panama vs Mexico, Match 32" saved successfully.
+2024-12-27 15:00:17 [INFO]: Match "Bahamas vs Bermuda, Match 31" saved successfully.
+2024-12-27 15:00:17 [INFO]: Match "Argentina vs Cayman Islands, Match 30" saved successfully.
+2024-12-27 15:00:18 [INFO]: Match "Belize vs Brazil, Match 29" saved successfully.
+2024-12-27 15:00:18 [INFO]: Match "Panama vs Belize, Match 27" saved successfully.
+2024-12-27 15:00:18 [INFO]: Match "Mexico vs Argentina, Match 28" saved successfully.
+2024-12-27 15:00:19 [INFO]: Match "Suriname vs Bahamas, Match 26" saved successfully.
+2024-12-27 15:00:19 [INFO]: Match "Brazil vs Cayman Islands, Match 25" saved successfully.
+2024-12-27 15:00:20 [INFO]: Match "Bermuda vs Belize, Match 24" saved successfully.
+2024-12-27 15:00:20 [INFO]: Match "Cayman Islands vs Bahamas, Match 23" saved successfully.
+2024-12-27 15:00:20 [INFO]: Match "Mexico vs Suriname, Match 22" saved successfully.
+2024-12-27 15:00:21 [INFO]: Match "Brazil vs Panama, Match 21" saved successfully.
+2024-12-27 15:00:21 [INFO]: Match "Bermuda vs Brazil, Match 19" saved successfully.
+2024-12-27 15:00:22 [INFO]: Match "Argentina vs Suriname, Match 20" saved successfully.
+2024-12-27 15:00:22 [INFO]: Match "Bahamas vs Panama, Match 18" saved successfully.
+2024-12-27 15:00:23 [INFO]: Match "Cayman Islands vs Mexico, Match 17" saved successfully.
+2024-12-27 15:00:23 [INFO]: Match "Mexico vs Bermuda, Match 15" saved successfully.
+2024-12-27 15:00:23 [INFO]: Match "Panama vs Argentina, Match 16" saved successfully.
+2024-12-27 15:00:24 [INFO]: Match "Belize vs Bahamas, Match 14" saved successfully.
+2024-12-27 15:00:24 [INFO]: Match "Suriname vs Cayman Islands, Match 13" saved successfully.
+2024-12-27 15:00:25 [INFO]: Match "Cayman Islands vs Belize, Match 12" saved successfully.
+2024-12-27 15:00:25 [INFO]: Match "Brazil vs Suriname, Match 11" saved successfully.
+2024-12-27 15:00:26 [INFO]: Match "Bermuda vs Panama, Match 9" saved successfully.
+2024-12-27 15:00:26 [INFO]: Match "Bahamas vs Argentina, Match 10" saved successfully.
+2024-12-27 15:00:27 [INFO]: Match "Panama vs Cayman Islands, Match 8" saved successfully.
+2024-12-27 15:00:27 [INFO]: Match "Suriname vs Bermuda, Match 7" saved successfully.
+2024-12-27 15:00:27 [INFO]: Match "Belize vs Argentina, Match 6" saved successfully.
+2024-12-27 15:00:28 [INFO]: Match "Brazil vs Mexico, Match 5" saved successfully.
+2024-12-27 15:00:28 [INFO]: Match "Nigeria vs Uganda, 6th Match" saved successfully.
+2024-12-27 15:00:29 [INFO]: Match "Belize vs Mexico, Match 4" saved successfully.
+2024-12-27 15:00:29 [INFO]: Match "Bahamas vs Brazil, Match 3" saved successfully.
+2024-12-27 15:00:30 [INFO]: Match "Suriname vs Panama, Match 2" saved successfully.
+2024-12-27 15:00:30 [INFO]: Match "Argentina vs Bermuda, Match 1" saved successfully.
+2024-12-27 15:00:30 [INFO]: Match "Rwanda vs Botswana, 5th Match" saved successfully.
+2024-12-27 15:00:31 [INFO]: Match "Rwanda vs Uganda, 4th Match" saved successfully.
+2024-12-27 15:00:31 [INFO]: Match "Botswana vs Nigeria, 3rd Match" saved successfully.
+2024-12-27 15:00:32 [INFO]: Match "Rwanda vs Nigeria, 2nd Match" saved successfully.
+2024-12-27 15:00:32 [INFO]: Match "Uganda vs Botswana, 1st Match" saved successfully.
+2024-12-27 15:00:37 [INFO]: Match "Qatar Women vs Bahrain Women, 5th Match" saved successfully.
+2024-12-27 15:00:38 [INFO]: Match "Qatar Women vs Bahrain Women, 4th Match" saved successfully.
+2024-12-27 15:00:39 [INFO]: Match "Qatar Women vs Bahrain Women, 3rd Match" saved successfully.
+2024-12-27 15:00:39 [INFO]: Match "Qatar Women vs Bahrain Women, 2nd Match" saved successfully.
+2024-12-27 15:00:40 [INFO]: Match "Qatar Women vs Bahrain Women, 1st Match" saved successfully.
+2024-12-27 15:00:40 [INFO]: Match "Thailand Women vs Namibia Women, Final" saved successfully.
+2024-12-27 15:00:40 [INFO]: Match "Hong Kong Women vs China Women, 3rd place play-off" saved successfully.
+2024-12-27 15:00:41 [INFO]: Match "Hong Kong Women vs Namibia Women, 6th Match" saved successfully.
+2024-12-27 15:00:42 [INFO]: Match "Thailand Women vs China Women, 5th Match" saved successfully.
+2024-12-27 15:00:42 [INFO]: Match "Hong Kong Women vs Thailand Women, 4th Match" saved successfully.
+2024-12-27 15:00:42 [INFO]: Match "China Women vs Namibia Women, 3rd Match" saved successfully.
+2024-12-27 15:00:43 [INFO]: Match "Hong Kong Women vs China Women, 2nd Match" saved successfully.
+2024-12-27 15:00:43 [INFO]: Match "Namibia Women vs Thailand Women, 1st Match" saved successfully.
+2024-12-27 15:00:44 [INFO]: Match "Nottinghamshire vs Essex, Group A" saved successfully.
+2024-12-27 15:00:44 [INFO]: Match "Lancashire vs Northamptonshire, Group B" saved successfully.
+2024-12-27 15:00:45 [INFO]: Match "Gloucestershire vs Derbyshire, Group A" saved successfully.
+2024-12-27 15:00:45 [INFO]: Match "Glamorgan vs Hampshire, Group A" saved successfully.
+2024-12-27 15:00:46 [INFO]: Match "Durham vs Sussex, Group B" saved successfully.
+2024-12-27 15:00:46 [INFO]: Match "Yorkshire vs Warwickshire, Group B" saved successfully.
+2024-12-27 15:00:46 [INFO]: Match "Tbc vs Tbc, Final" saved successfully.
+2024-12-27 15:00:47 [INFO]: Match "Tbc vs Tbc, Semi Final 2 (Winner Of QF 2 v QF 3)" saved successfully.
+2024-12-27 15:00:47 [INFO]: Match "Tbc vs Tbc, Semi Final 1 (Winner Of QF 1 v QF 4)" saved successfully.
+2024-12-27 15:00:47 [INFO]: Match "Tbc vs Tbc, Quarter Final 2" saved successfully.
+2024-12-27 15:00:48 [INFO]: Match "Tbc vs Tbc, Quarter Final 1" saved successfully.
+2024-12-27 15:00:49 [INFO]: Match "Tbc vs Tbc, Quarter final 4" saved successfully.
+2024-12-27 15:00:49 [INFO]: Match "Tbc vs Tbc, Quarter final 3" saved successfully.
+2024-12-27 15:00:50 [INFO]: Match "Tbc vs Tbc, 1st Preliminary quarter final" saved successfully.
+2024-12-27 15:00:50 [INFO]: Match "Tbc vs Tbc, 2nd Preliminary quarter final" saved successfully.
+2024-12-27 15:00:51 [INFO]: Match "Meghalaya vs Services, Round 7, Group B" saved successfully.
+2024-12-27 15:00:51 [INFO]: Match "Rajasthan vs Sikkim, Round 7, Group B" saved successfully.
+2024-12-27 15:00:51 [INFO]: Match "Andhra vs Himachal Pradesh, Round 7, Group B" saved successfully.
+2024-12-27 15:00:52 [INFO]: Match "Maharashtra vs Railways, Round 7, Group B" saved successfully.
+2024-12-27 15:00:52 [INFO]: Match "Assam vs Uttarakhand, Round 7, Group A" saved successfully.
+2024-12-27 15:00:53 [INFO]: Match "Haryana vs Manipur, Round 7, Group A" saved successfully.
+2024-12-27 15:00:53 [INFO]: Match "Goa vs Jharkhand, Round 7, Group A" saved successfully.
+2024-12-27 15:00:53 [INFO]: Match "Gujarat vs Odisha, Round 7, Group A" saved successfully.
+2024-12-27 15:00:54 [INFO]: Match "Mumbai vs Saurashtra, Round 7, Group C" saved successfully.
+2024-12-27 15:00:54 [INFO]: Match "Puducherry vs Punjab, Round 7, Group C" saved successfully.
+2024-12-27 15:00:55 [INFO]: Match "Bengal vs Madhya Pradesh, Round 7, Group E" saved successfully.
+2024-12-27 15:00:55 [INFO]: Match "Bihar vs Kerala, Round 7, Group E" saved successfully.
+2024-12-27 15:00:55 [INFO]: Match "Baroda vs Delhi, Round 7, Group E" saved successfully.
+2024-12-27 15:00:56 [INFO]: Match "Chhattisgarh vs Tamil Nadu, Round 7, Group D" saved successfully.
+2024-12-27 15:00:56 [INFO]: Match "Mizoram vs Vidarbha, Round 7, Group D" saved successfully.
+2024-12-27 15:00:57 [INFO]: Match "Chandigarh vs Jammu And Kashmir, Round 7, Group D" saved successfully.
+2024-12-27 15:00:57 [INFO]: Match "Arunachal Pradesh vs Hyderabad, Round 7, Group C" saved successfully.
+2024-12-27 15:00:57 [INFO]: Match "Nagaland vs Karnataka, Round 7, Group C" saved successfully.
+2024-12-27 15:00:58 [INFO]: Match "Railways vs Rajasthan, Round 6, Group A" saved successfully.
+2024-12-27 15:00:58 [INFO]: Match "Andhra vs Maharashtra, Round 6, Group B" saved successfully.
+2024-12-27 15:00:58 [INFO]: Match "Meghalaya vs Sikkim, Round 6, Group A" saved successfully.
+2024-12-27 15:00:59 [INFO]: Match "Himachal Pradesh vs Services, Round 6, Group A" saved successfully.
+2024-12-27 15:00:59 [INFO]: Match "Rangpur Riders vs Tbc, Final" saved successfully.
+2024-12-27 15:01:00 [INFO]: Match "Haryana vs Odisha, Round 6, Group A" saved successfully.
+2024-12-27 15:01:00 [INFO]: Match "Tbc vs Tbc, 2nd Qualifier" saved successfully.
+2024-12-27 15:01:00 [INFO]: Match "Goa vs Gujarat, Round 6, Group A" saved successfully.
+2024-12-27 15:01:01 [INFO]: Match "Tbc vs Tbc, 1st Qualifier (1st Position v 2nd Position)" saved successfully.
+2024-12-27 15:01:01 [INFO]: Match "Assam vs Manipur, Round 6, Group A" saved successfully.
+2024-12-27 15:01:02 [INFO]: Match "Tbc vs Tbc, Eliminator (3rd Position v 4th Position)" saved successfully.
+2024-12-27 15:01:02 [INFO]: Match "Jharkhand vs Uttarakhand, Round 6, Group A" saved successfully.
+2024-12-27 15:01:03 [INFO]: Match "Fortune Barishal vs Chittagong Kings, 42nd Match" saved successfully.
+2024-12-27 15:01:03 [INFO]: Match "Hyderabad vs Punjab, Round 6, Group C" saved successfully.
+2024-12-27 15:01:03 [INFO]: Match "Arunachal Pradesh vs Nagaland, Round 6, Group C" saved successfully.
+2024-12-27 15:01:04 [INFO]: Match "Dhaka Capital vs Khulna Tigers, 41st Match" saved successfully.
+2024-12-27 15:01:04 [INFO]: Match "Kerala vs Tripura, Round 6, Group E" saved successfully.
+2024-12-27 15:01:05 [INFO]: Match "Chittagong Kings vs Sylhet Strikers, 40th Match" saved successfully.
+2024-12-27 15:01:05 [INFO]: Match "Rangpur Riders vs Khulna Tigers, 39th Match" saved successfully.
+2024-12-27 15:01:05 [INFO]: Match "Fortune Barishal vs Dhaka Capital, 38th Match" saved successfully.
+2024-12-27 15:01:06 [INFO]: Match "Mumbai vs Puducherry, Round 6, Group C" saved successfully.
+2024-12-27 15:01:06 [INFO]: Match "Rangpur Riders vs Chittagong Kings, 37th Match" saved successfully.
+2024-12-27 15:01:07 [INFO]: Match "Durbar Rajshahi vs Sylhet Strikers, 36th Match" saved successfully.
+2024-12-27 15:01:07 [INFO]: Match "Fortune Barishal vs Khulna Tigers, 35th Match" saved successfully.
+2024-12-27 15:01:07 [INFO]: Match "Durbar Rajshahi vs Rangpur Riders, 34th Match" saved successfully.
+2024-12-27 15:01:08 [INFO]: Match "Fortune Barishal vs Sylhet Strikers, 33rd Match" saved successfully.
+2024-12-27 15:01:08 [INFO]: Match "Khulna Tigers vs Sylhet Strikers, 32nd Match" saved successfully.
+2024-12-27 15:01:09 [INFO]: Match "Durbar Rajshahi vs Rangpur Riders, 31st Match" saved successfully.
+2024-12-27 15:01:09 [INFO]: Match "Fortune Barishal vs Khulna Tigers, 30th Match" saved successfully.
+2024-12-27 15:01:09 [INFO]: Match "Dhaka Capital vs Chittagong Kings, 29th Match" saved successfully.
+2024-12-27 15:01:10 [INFO]: Match "Durbar Rajshahi vs Chittagong Kings, 28th Match" saved successfully.
+2024-12-27 15:01:10 [INFO]: Match "Dhaka Capital vs Sylhet Strikers, 27th Match" saved successfully.
+2024-12-27 15:01:11 [INFO]: Match "Durbar Rajshahi vs Khulna Tigers, 26th Match" saved successfully.
+2024-12-27 15:01:11 [INFO]: Match "Fortune Barishal vs Chittagong Kings, 25th Match" saved successfully.
+2024-12-27 15:01:11 [INFO]: Match "Rangpur Riders vs Chittagong Kings, 24th Match" saved successfully.
+2024-12-27 15:01:12 [INFO]: Match "Durbar Rajshahi vs Sylhet Strikers, 23rd Match" saved successfully.
+2024-12-27 15:01:12 [INFO]: Match "Khulna Tigers vs Chittagong Kings, 22nd Match" saved successfully.
+2024-12-27 15:01:13 [INFO]: Match "Fortune Barishal vs Dhaka Capital, 21st Match" saved successfully.
+2024-12-27 15:01:13 [INFO]: Match "Rangpur Riders vs Khulna Tigers, 20th Match" saved successfully.
+2024-12-27 15:01:13 [INFO]: Match "Chittagong Kings vs Sylhet Strikers, 19th Match" saved successfully.
+2024-12-27 15:01:14 [INFO]: Match "Durbar Rajshahi vs Dhaka Capital, 18th Match" saved successfully.
+2024-12-27 15:01:14 [INFO]: Match "Khulna Tigers vs Sylhet Strikers, 17th Match" saved successfully.
+2024-12-27 15:01:14 [INFO]: Match "Dhaka Capital vs Sylhet Strikers, 16th Match" saved successfully.
+2024-12-27 15:01:15 [INFO]: Match "Durbar Rajshahi vs Khulna Tigers, 15th Match" saved successfully.
+2024-12-27 15:01:15 [INFO]: Match "Dhaka Capital vs Chittagong Kings, 14th Match" saved successfully.
+2024-12-27 15:01:16 [INFO]: Match "Fortune Barishal vs Rangpur Riders, 13th Match" saved successfully.
+2024-12-27 15:01:16 [INFO]: Match "Fortune Barishal vs Sylhet Strikers, 12th Match" saved successfully.
+2024-12-27 15:01:16 [INFO]: Match "Rangpur Riders vs Dhaka Capital, 11th Match" saved successfully.
+2024-12-27 15:01:17 [INFO]: Match "Fortune Barishal vs Durbar Rajshahi, 10th Match" saved successfully.
+2024-12-27 15:01:17 [INFO]: Match "Sylhet Strikers vs Rangpur Riders, 9th Match" saved successfully.
+2024-12-27 15:01:18 [INFO]: Match "Dhaka Capital vs Khulna Tigers, 8th Match" saved successfully.
+2024-12-27 15:01:18 [INFO]: Match "Durbar Rajshahi vs Chittagong Kings, 7th Match" saved successfully.
+2024-12-27 15:01:19 [INFO]: Match "Tbc vs Tbc, Final" saved successfully.
+2024-12-27 15:01:19 [INFO]: Match "Tbc vs Tbc, Eliminator" saved successfully.
+2024-12-27 15:01:20 [INFO]: Match "Wellington vs Northern Knights, 30th Match" saved successfully.
+2024-12-27 15:01:20 [INFO]: Match "Central Districts vs Auckland, 29th Match" saved successfully.
+2024-12-27 15:01:20 [INFO]: Match "Canterbury vs Northern Knights, 28th Match" saved successfully.
+2024-12-27 15:01:21 [INFO]: Match "Auckland vs Wellington, 27th Match" saved successfully.
+2024-12-27 15:01:21 [INFO]: Match "Canterbury vs Central Districts, 26th Match" saved successfully.
+2024-12-27 15:01:22 [INFO]: Match "Northern Knights vs Otago, 25th Match" saved successfully.
+2024-12-27 15:01:22 [INFO]: Match "Canterbury vs Wellington, 24th Match" saved successfully.
+2024-12-27 15:01:22 [INFO]: Match "Auckland vs Otago, 23rd Match" saved successfully.
+2024-12-27 15:01:23 [INFO]: Match "Wellington vs Canterbury, 22nd Match" saved successfully.
+2024-12-27 15:01:23 [INFO]: Match "Northern Knights vs Central Districts, 21st Match" saved successfully.
+2024-12-27 15:01:24 [INFO]: Match "Wellington vs Auckland, 20th Match" saved successfully.
+2024-12-27 15:01:24 [INFO]: Match "Northern Knights vs Canterbury, 19th Match" saved successfully.
+2024-12-27 15:01:25 [INFO]: Match "Otago vs Wellington, 18th Match" saved successfully.
+2024-12-27 15:01:25 [INFO]: Match "Central Districts vs Canterbury, 17th Match" saved successfully.
+2024-12-27 15:01:25 [INFO]: Match "Otago vs Northern Knights, 16th Match" saved successfully.
+2024-12-27 15:01:26 [INFO]: Match "Auckland vs Central Districts, 15th Match" saved successfully.
+2024-12-27 15:01:26 [INFO]: Match "Wellington vs Otago, 14th Match" saved successfully.
+2024-12-27 15:01:26 [INFO]: Match "Auckland vs Northern Knights, 13th Match" saved successfully.
+2024-12-27 15:01:27 [INFO]: Match "Central Districts vs Otago, 12th Match" saved successfully.
+2024-12-27 15:01:27 [INFO]: Match "Canterbury vs Auckland, 11th Match" saved successfully.
+2024-12-27 15:01:28 [INFO]: Match "Wellington vs Central Districts, 10th Match" saved successfully.
+2024-12-27 15:01:28 [INFO]: Match "Canterbury vs Otago, 9th Match" saved successfully.
+2024-12-27 15:01:30 [INFO]: Match "Central Districts vs Northern Knights, 8th Match" saved successfully.
+2024-12-27 15:01:31 [INFO]: Match "Central Districts vs Wellington, 7th Match" saved successfully.
+2024-12-27 15:01:31 [INFO]: Match "Auckland vs Canterbury, 6th Match" saved successfully.
+2024-12-27 15:01:31 [INFO]: Match "Bengal vs Bihar, Round 6, Group E" saved successfully.
+2024-12-27 15:01:32 [INFO]: Match "Baroda vs Madhya Pradesh, Round 6, Group E" saved successfully.
+2024-12-27 15:01:32 [INFO]: Match "Uttar Pradesh vs Vidarbha, Round 6, Group D" saved successfully.
+2024-12-27 15:01:33 [INFO]: Match "Tamil Nadu vs Mizoram, Round 6, Group D" saved successfully.
+2024-12-27 15:01:33 [INFO]: Match "Chhattisgarh vs Jammu And Kashmir, Round 6, Group D" saved successfully.
+2024-12-27 15:01:33 [INFO]: Match "Saurashtra vs Karnataka, Round 6, Group C" saved successfully.
+2024-12-27 15:01:34 [INFO]: Match "Fortune Barishal vs Rangpur Riders, 6th Match" saved successfully.
+2024-12-27 15:01:34 [INFO]: Match "Durbar Rajshahi vs Dhaka Capital, 5th Match" saved successfully.
+2024-12-27 15:01:35 [INFO]: Match "Northern Knights vs Wellington, 5th Match" saved successfully.
+2024-12-27 15:01:35 [INFO]: Match "Sylhet Strikers vs Rangpur Riders, 4th Match" saved successfully.
+2024-12-27 15:01:36 [INFO]: Match "Khulna Tigers vs Chittagong Kings, 3rd Match" saved successfully.
+2024-12-27 15:01:36 [INFO]: Match "Otago vs Central Districts, 4th Match" saved successfully.
+2024-12-27 15:01:37 [INFO]: Match "Mumbai vs Nagaland, Round 5, Group C" saved successfully.
+2024-12-27 15:01:37 [INFO]: Match "Rajasthan vs Services, Round 5, Group B" saved successfully.
+2024-12-27 15:01:37 [INFO]: Match "Himachal Pradesh vs Railways, Round 5, Group B" saved successfully.
+2024-12-27 15:01:38 [INFO]: Match "Andhra vs Meghalaya, Round 5, Group B" saved successfully.
+2024-12-27 15:01:38 [INFO]: Match "Maharashtra vs Sikkim, Round 5, Group B" saved successfully.
+2024-12-27 15:01:38 [INFO]: Match "Haryana vs Uttarakhand, Round 5, Group A" saved successfully.
+2024-12-27 15:01:39 [INFO]: Match "Jharkhand vs Odisha, Round 5, Group A" saved successfully.
+2024-12-27 15:01:39 [INFO]: Match "Assam vs Goa, Round 5, Group A" saved successfully.
+2024-12-27 15:01:40 [INFO]: Match "Arunachal Pradesh vs Puducherry, Round 5, Group C" saved successfully.
+2024-12-27 15:01:40 [INFO]: Match "Punjab vs Saurashtra, Round 5, Group C" saved successfully.
+2024-12-27 15:01:41 [INFO]: Match "Baroda vs Bihar, Round 5, Group E" saved successfully.
+2024-12-27 15:01:41 [INFO]: Match "Delhi vs Tripura, Round 5, Group E" saved successfully.
+2024-12-27 15:01:42 [INFO]: Match "Bengal vs Kerala, Round 5, Group E" saved successfully.
+2024-12-27 15:01:42 [INFO]: Match "Jammu And Kashmir vs Mizoram, Round 5, Group D" saved successfully.
+2024-12-27 15:01:42 [INFO]: Match "Chandigarh vs Uttar Pradesh, Round 5, Group D" saved successfully.
+2024-12-27 15:01:43 [INFO]: Match "Tamil Nadu vs Vidarbha, Round 5, Group D" saved successfully.
+2024-12-27 15:01:43 [INFO]: Match "Hyderabad vs Karnataka, Round 5, Group C" saved successfully.
+2024-12-27 15:01:44 [INFO]: Match "Gujarat vs Manipur, Round 5, Group A" saved successfully.
+2024-12-27 15:01:44 [INFO]: Match "Rangpur Riders vs Dhaka Capital, 2nd Match" saved successfully.
+2024-12-27 15:01:44 [INFO]: Match "Fortune Barishal vs Durbar Rajshahi, 1st Match" saved successfully.
+2024-12-27 15:01:45 [INFO]: Match "Otago vs Auckland, 3rd Match" saved successfully.
+2024-12-27 15:01:45 [INFO]: Match "Nagaland vs Saurashtra, Round 4, Group C" saved successfully.
+2024-12-27 15:01:46 [INFO]: Match "Maharashtra vs Himachal Pradesh, Round 4, Group B" saved successfully.
+2024-12-27 15:01:46 [INFO]: Match "Andhra vs Services, Round 4, Group B" saved successfully.
+2024-12-27 15:01:46 [INFO]: Match "Railways vs Sikkim, Round 4, Group B" saved successfully.
+2024-12-27 15:01:47 [INFO]: Match "Meghalaya vs Rajasthan, Round 4, Group B" saved successfully.
+2024-12-27 15:01:47 [INFO]: Match "Jharkhand vs Gujarat, Round 4, Group A" saved successfully.
+2024-12-27 15:01:48 [INFO]: Match "Goa vs Uttarakhand, Round 4, Group A" saved successfully.
+2024-12-27 15:01:48 [INFO]: Match "Manipur vs Odisha, Round 4, Group A" saved successfully.
+2024-12-27 15:01:48 [INFO]: Match "Arunachal Pradesh vs Karnataka, Round 4, Group C" saved successfully.
+2024-12-27 15:01:49 [INFO]: Match "Assam vs Haryana, Round 4, Group A" saved successfully.
+2024-12-27 15:01:49 [INFO]: Match "Madhya Pradesh vs Tripura, Round 4, Group E" saved successfully.
+2024-12-27 15:01:50 [INFO]: Match "Baroda vs Bengal, Round 4, Group E" saved successfully.
+2024-12-27 15:01:50 [INFO]: Match "Delhi vs Kerala, Round 4, Group E" saved successfully.
+2024-12-27 15:01:50 [INFO]: Matches fetched and stored successfully.
+2024-12-27 15:01:50 [INFO]: Seeding Completed and MongoDB Connection Closed
+2024-12-27 15:37:27 [INFO]: Server started on port 3000
+2024-12-27 15:37:27 [ERROR]: MongoDB Connection Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.5pla2.mongodb.net
+2024-12-27 15:44:11 [INFO]: Server started on port 3000
+2024-12-27 15:44:14 [INFO]: MongoDB Connected
+2024-12-27 15:49:35 [ERROR]: Server Error: Failed to lookup view "players" in views directory "C:\Users\Admin\Desktop\QAU\Sem 7\WAF\Assignments\Assign 2\cricket-dashboard\views"
+2024-12-27 15:49:38 [ERROR]: Server Error: Failed to lookup view "players" in views directory "C:\Users\Admin\Desktop\QAU\Sem 7\WAF\Assignments\Assign 2\cricket-dashboard\views"
+2024-12-27 15:49:42 [ERROR]: Server Error: Failed to lookup view "players" in views directory "C:\Users\Admin\Desktop\QAU\Sem 7\WAF\Assignments\Assign 2\cricket-dashboard\views"
+2024-12-27 15:50:04 [ERROR]: Server Error: Failed to lookup view "players" in views directory "C:\Users\Admin\Desktop\QAU\Sem 7\WAF\Assignments\Assign 2\cricket-dashboard\views"
+2024-12-27 15:57:10 [ERROR]: Server Error: Failed to lookup view "players" in views directory "C:\Users\Admin\Desktop\QAU\Sem 7\WAF\Assignments\Assign 2\cricket-dashboard\views"
+2025-01-17 10:46:01 [INFO]: Server started on port 3000
+2025-01-17 10:46:02 [INFO]: MongoDB Connected
